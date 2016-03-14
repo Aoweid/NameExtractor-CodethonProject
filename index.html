@@ -5,7 +5,7 @@
     <title>HeavyWater Assignment</title>
     <style>
         body{background-color:#f5f5f5}
-        #d1{height:150px;font-family:arial;font-size:15px}
+        #d1{height:150px;font-family:arial;font-size:20px}
         #d2{height:400px}
         #ipt{width: 500px ; height: 30px}
         #d3{height:100px;font-family:arial}
@@ -16,10 +16,14 @@
 
     <div id="d1"><center><br /><h2>HeavyWater Assignment</h2></center></div>
     <div id="d2">
-        <center><br /><input id="ipt" /><input type="submit" name="button" id="button" value="Upload" style=" border:2px; height:37px; width:100px" /></center>
+        <center><br /><input id="ipt" /><input type="file" name="button" id="button" value="Upload" style=" border:2px; height:37px; width:100px" /></center>
     </div>
-    <hr width="800px">
-    <div id="d3"><center><h4>Aowei Ding</h4><center></div>
+    <form enctype="multipart/form-data" action="python-cgi/savefile.py" method="post">
+     <p>File: <input type="file" name="filename" /></p>
+     <p><input type="submit" value="Upload" /></p>
+    </form>
+ <hr width="800px">
+ <div id="d3"><center><h4>Aowei Ding</h4><center></div>
 
 </body>
 </html>
