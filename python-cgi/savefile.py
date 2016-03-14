@@ -76,7 +76,7 @@ if fileitem.filename:
 	filename = os.path.basename(fileitem.filename)
 	filepath='/tmp/'+filename
 	open(filepath, 'wb').write(fileitem.file.read())
-	process(filepath)
+	process(filename)
 else:
 	# 出错提示
 	message = 'No file was uploaded'
