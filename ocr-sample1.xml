@@ -1,0 +1,7391 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HocrPages xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">  
+  <HocrPage>
+    <PageID>PG1</PageID>
+    <Title>OCR Output</Title>
+    <Orientation>0</Orientation>
+    <DeskewAngle>0</DeskewAngle>
+    <Corners>
+      <Corner>
+        <X>0</X>
+        <Y>0</Y>
+      </Corner>
+      <Corner>
+        <X>2548</X>
+        <Y>0</Y>
+      </Corner>
+      <Corner>
+        <X>2548</X>
+        <Y>3298</Y>
+      </Corner>
+      <Corner>
+        <X>0</X>
+        <Y>3298</Y>
+      </Corner>
+    </Corners>
+    <Spans>
+      <Span>
+        <Value>Fairway</Value>
+        <Coordinates>
+          <x0>768</x0>
+          <y0>90</y0>
+          <x1>949</x1>
+          <y1>136</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Independent</Value>
+        <Coordinates>
+          <x0>967</x0>
+          <y0>90</y0>
+          <x1>1260</x1>
+          <y1>136</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mortgage</Value>
+        <Coordinates>
+          <x0>1278</x0>
+          <y0>90</y0>
+          <x1>1498</x1>
+          <y1>136</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Corporation</Value>
+        <Coordinates>
+          <x0>1516</x0>
+          <y0>89</y0>
+          <x1>1796</x1>
+          <y1>136</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Uniform</Value>
+        <Coordinates>
+          <x0>686</x0>
+          <y0>163</y0>
+          <x1>932</x1>
+          <y1>213</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Residential</Value>
+        <Coordinates>
+          <x0>960</x0>
+          <y0>163</y0>
+          <x1>1306</x1>
+          <y1>213</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Loan</Value>
+        <Coordinates>
+          <x0>1334</x0>
+          <y0>163</y0>
+          <x1>1484</x1>
+          <y1>213</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Application</Value>
+        <Coordinates>
+          <x0>1508</x0>
+          <y0>163</y0>
+          <x1>1865</x1>
+          <y1>225</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>This</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>243</y0>
+          <x1>204</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>application</Value>
+        <Coordinates>
+          <x0>219</x0>
+          <y0>243</y0>
+          <x1>355</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>is</Value>
+        <Coordinates>
+          <x0>372</x0>
+          <y0>243</y0>
+          <x1>390</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>designed</Value>
+        <Coordinates>
+          <x0>405</x0>
+          <y0>243</y0>
+          <x1>521</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>to</Value>
+        <Coordinates>
+          <x0>535</x0>
+          <y0>243</y0>
+          <x1>558</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>574</x0>
+          <y0>243</y0>
+          <x1>603</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>completed</Value>
+        <Coordinates>
+          <x0>618</x0>
+          <y0>243</y0>
+          <x1>751</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>by</Value>
+        <Coordinates>
+          <x0>767</x0>
+          <y0>243</y0>
+          <x1>795</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>808</x0>
+          <y0>243</y0>
+          <x1>847</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>applicant(s)</Value>
+        <Coordinates>
+          <x0>862</x0>
+          <y0>243</y0>
+          <x1>1010</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>with</Value>
+        <Coordinates>
+          <x0>1024</x0>
+          <y0>243</y0>
+          <x1>1074</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1089</x0>
+          <y0>243</y0>
+          <x1>1128</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Lender's</Value>
+        <Coordinates>
+          <x0>1144</x0>
+          <y0>243</y0>
+          <x1>1253</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>assistance.</Value>
+        <Coordinates>
+          <x0>1268</x0>
+          <y0>243</y0>
+          <x1>1411</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Applicants</Value>
+        <Coordinates>
+          <x0>1426</x0>
+          <y0>243</y0>
+          <x1>1558</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>should</Value>
+        <Coordinates>
+          <x0>1573</x0>
+          <y0>243</y0>
+          <x1>1657</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>complete</Value>
+        <Coordinates>
+          <x0>1672</x0>
+          <y0>243</y0>
+          <x1>1788</x1>
+          <y1>269</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>1802</x0>
+          <y0>243</y0>
+          <x1>1846</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>form</Value>
+        <Coordinates>
+          <x0>1861</x0>
+          <y0>243</y0>
+          <x1>1916</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>as</Value>
+        <Coordinates>
+          <x0>1932</x0>
+          <y0>243</y0>
+          <x1>1960</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>"Borrower"</Value>
+        <Coordinates>
+          <x0>1976</x0>
+          <y0>243</y0>
+          <x1>2112</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>2126</x0>
+          <y0>243</y0>
+          <x1>2150</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>"Co-Borrower",</Value>
+        <Coordinates>
+          <x0>2165</x0>
+          <y0>242</y0>
+          <x1>2354</x1>
+          <y1>267</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>as</Value>
+        <Coordinates>
+          <x0>2370</x0>
+          <y0>248</y0>
+          <x1>2397</x1>
+          <y1>264</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>applicable.</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>276</y0>
+          <x1>287</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower</Value>
+        <Coordinates>
+          <x0>300</x0>
+          <y0>275</y0>
+          <x1>463</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>information</Value>
+        <Coordinates>
+          <x0>474</x0>
+          <y0>276</y0>
+          <x1>615</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>must</Value>
+        <Coordinates>
+          <x0>628</x0>
+          <y0>277</y0>
+          <x1>688</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>also</Value>
+        <Coordinates>
+          <x0>699</x0>
+          <y0>276</y0>
+          <x1>750</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>763</x0>
+          <y0>276</y0>
+          <x1>792</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>provided</Value>
+        <Coordinates>
+          <x0>804</x0>
+          <y0>276</y0>
+          <x1>912</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(and</Value>
+        <Coordinates>
+          <x0>925</x0>
+          <y0>276</y0>
+          <x1>980</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>990</x0>
+          <y0>276</y0>
+          <x1>1029</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>appropriate</Value>
+        <Coordinates>
+          <x0>1040</x0>
+          <y0>276</y0>
+          <x1>1186</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>box</Value>
+        <Coordinates>
+          <x0>1198</x0>
+          <y0>276</y0>
+          <x1>1243</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>checked)</Value>
+        <Coordinates>
+          <x0>1253</x0>
+          <y0>275</y0>
+          <x1>1368</x1>
+          <y1>301</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>when</Value>
+        <Coordinates>
+          <x0>1379</x0>
+          <y0>272</y0>
+          <x1>1446</x1>
+          <y1>304</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>1457</x0>
+          <y0>272</y0>
+          <x1>1508</x1>
+          <y1>304</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1520</x0>
+          <y0>275</y0>
+          <x1>1560</x1>
+          <y1>296</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>income</Value>
+        <Coordinates>
+          <x0>1572</x0>
+          <y0>276</y0>
+          <x1>1662</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1674</x0>
+          <y0>276</y0>
+          <x1>1698</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>assets</Value>
+        <Coordinates>
+          <x0>1709</x0>
+          <y0>277</y0>
+          <x1>1790</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1802</x0>
+          <y0>276</y0>
+          <x1>1825</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>1836</x0>
+          <y0>276</y0>
+          <x1>1851</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>person</Value>
+        <Coordinates>
+          <x0>1862</x0>
+          <y0>276</y0>
+          <x1>1946</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>other</Value>
+        <Coordinates>
+          <x0>1959</x0>
+          <y0>276</y0>
+          <x1>2023</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>than</Value>
+        <Coordinates>
+          <x0>2033</x0>
+          <y0>276</y0>
+          <x1>2088</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>2099</x0>
+          <y0>276</y0>
+          <x1>2138</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>2150</x0>
+          <y0>276</y0>
+          <x1>2265</x1>
+          <y1>297</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(including</Value>
+        <Coordinates>
+          <x0>2277</x0>
+          <y0>276</y0>
+          <x1>2397</x1>
+          <y1>302</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>150</x0>
+          <y0>310</y0>
+          <x1>189</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower's</Value>
+        <Coordinates>
+          <x0>201</x0>
+          <y0>310</y0>
+          <x1>337</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>spouse)</Value>
+        <Coordinates>
+          <x0>348</x0>
+          <y0>310</y0>
+          <x1>449</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>459</x0>
+          <y0>310</y0>
+          <x1>497</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>510</x0>
+          <y0>310</y0>
+          <x1>539</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>used</Value>
+        <Coordinates>
+          <x0>551</x0>
+          <y0>310</y0>
+          <x1>611</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>as</Value>
+        <Coordinates>
+          <x0>622</x0>
+          <y0>315</y0>
+          <x1>650</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>661</x0>
+          <y0>310</y0>
+          <x1>676</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>basis</Value>
+        <Coordinates>
+          <x0>687</x0>
+          <y0>310</y0>
+          <x1>752</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>763</x0>
+          <y0>310</y0>
+          <x1>795</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>loan</Value>
+        <Coordinates>
+          <x0>807</x0>
+          <y0>310</y0>
+          <x1>858</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>qualification</Value>
+        <Coordinates>
+          <x0>869</x0>
+          <y0>309</y0>
+          <x1>1019</x1>
+          <y1>335</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1032</x0>
+          <y0>306</y0>
+          <x1>1056</x1>
+          <y1>339</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>[]</Value>
+        <Coordinates>
+          <x0>1063</x0>
+          <y0>306</y0>
+          <x1>1111</x1>
+          <y1>339</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1125</x0>
+          <y0>309</y0>
+          <x1>1165</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>income</Value>
+        <Coordinates>
+          <x0>1177</x0>
+          <y0>310</y0>
+          <x1>1268</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1279</x0>
+          <y0>310</y0>
+          <x1>1303</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>assets</Value>
+        <Coordinates>
+          <x0>1313</x0>
+          <y0>311</y0>
+          <x1>1395</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1407</x0>
+          <y0>310</y0>
+          <x1>1430</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1438</x0>
+          <y0>310</y0>
+          <x1>1478</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower's</Value>
+        <Coordinates>
+          <x0>1490</x0>
+          <y0>310</y0>
+          <x1>1625</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>spouse</Value>
+        <Coordinates>
+          <x0>1636</x0>
+          <y0>315</y0>
+          <x1>1728</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1739</x0>
+          <y0>310</y0>
+          <x1>1763</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>other</Value>
+        <Coordinates>
+          <x0>1774</x0>
+          <y0>310</y0>
+          <x1>1839</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>person</Value>
+        <Coordinates>
+          <x0>1850</x0>
+          <y0>315</y0>
+          <x1>1935</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>who</Value>
+        <Coordinates>
+          <x0>1946</x0>
+          <y0>310</y0>
+          <x1>1998</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>has</Value>
+        <Coordinates>
+          <x0>2009</x0>
+          <y0>310</y0>
+          <x1>2053</x1>
+          <y1>331</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>community</Value>
+        <Coordinates>
+          <x0>2064</x0>
+          <y0>310</y0>
+          <x1>2204</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>2215</x0>
+          <y0>310</y0>
+          <x1>2320</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>rights</Value>
+        <Coordinates>
+          <x0>2330</x0>
+          <y0>310</y0>
+          <x1>2397</x1>
+          <y1>336</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>pursuant</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>344</y0>
+          <x1>263</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>to</Value>
+        <Coordinates>
+          <x0>272</x0>
+          <y0>343</y0>
+          <x1>295</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state</Value>
+        <Coordinates>
+          <x0>305</x0>
+          <y0>343</y0>
+          <x1>366</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>law</Value>
+        <Coordinates>
+          <x0>378</x0>
+          <y0>343</y0>
+          <x1>418</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>427</x0>
+          <y0>343</y0>
+          <x1>465</x1>
+          <y1>363</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>not</Value>
+        <Coordinates>
+          <x0>478</x0>
+          <y0>343</y0>
+          <x1>515</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>527</x0>
+          <y0>343</y0>
+          <x1>556</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>used</Value>
+        <Coordinates>
+          <x0>568</x0>
+          <y0>343</y0>
+          <x1>628</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>as</Value>
+        <Coordinates>
+          <x0>638</x0>
+          <y0>348</y0>
+          <x1>666</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>677</x0>
+          <y0>343</y0>
+          <x1>692</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>basis</Value>
+        <Coordinates>
+          <x0>703</x0>
+          <y0>343</y0>
+          <x1>767</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>777</x0>
+          <y0>343</y0>
+          <x1>810</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>loan</Value>
+        <Coordinates>
+          <x0>821</x0>
+          <y0>343</y0>
+          <x1>872</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>qualification,</Value>
+        <Coordinates>
+          <x0>883</x0>
+          <y0>343</y0>
+          <x1>1042</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>but</Value>
+        <Coordinates>
+          <x0>1055</x0>
+          <y0>343</y0>
+          <x1>1092</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>his</Value>
+        <Coordinates>
+          <x0>1104</x0>
+          <y0>343</y0>
+          <x1>1138</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1148</x0>
+          <y0>343</y0>
+          <x1>1172</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>her</Value>
+        <Coordinates>
+          <x0>1183</x0>
+          <y0>343</y0>
+          <x1>1223</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>liabilities</Value>
+        <Coordinates>
+          <x0>1234</x0>
+          <y0>343</y0>
+          <x1>1340</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>must</Value>
+        <Coordinates>
+          <x0>1352</x0>
+          <y0>343</y0>
+          <x1>1412</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>1423</x0>
+          <y0>343</y0>
+          <x1>1452</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>considered</Value>
+        <Coordinates>
+          <x0>1463</x0>
+          <y0>343</y0>
+          <x1>1603</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>because</Value>
+        <Coordinates>
+          <x0>1615</x0>
+          <y0>343</y0>
+          <x1>1722</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1731</x0>
+          <y0>343</y0>
+          <x1>1771</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>spouse</Value>
+        <Coordinates>
+          <x0>1781</x0>
+          <y0>348</y0>
+          <x1>1873</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1883</x0>
+          <y0>343</y0>
+          <x1>1907</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>other</Value>
+        <Coordinates>
+          <x0>1917</x0>
+          <y0>343</y0>
+          <x1>1982</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>person</Value>
+        <Coordinates>
+          <x0>1993</x0>
+          <y0>343</y0>
+          <x1>2078</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>has</Value>
+        <Coordinates>
+          <x0>2091</x0>
+          <y0>343</y0>
+          <x1>2134</x1>
+          <y1>364</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>community</Value>
+        <Coordinates>
+          <x0>2144</x0>
+          <y0>343</y0>
+          <x1>2284</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>2295</x0>
+          <y0>344</y0>
+          <x1>2399</x1>
+          <y1>369</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>rights</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>376</y0>
+          <x1>220</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>pursuant</Value>
+        <Coordinates>
+          <x0>232</x0>
+          <y0>377</y0>
+          <x1>342</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>to</Value>
+        <Coordinates>
+          <x0>352</x0>
+          <y0>376</y0>
+          <x1>375</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>applicable</Value>
+        <Coordinates>
+          <x0>386</x0>
+          <y0>376</y0>
+          <x1>515</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>law</Value>
+        <Coordinates>
+          <x0>527</x0>
+          <y0>376</y0>
+          <x1>568</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>and</Value>
+        <Coordinates>
+          <x0>578</x0>
+          <y0>376</y0>
+          <x1>625</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>637</x0>
+          <y0>376</y0>
+          <x1>752</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>resides</Value>
+        <Coordinates>
+          <x0>764</x0>
+          <y0>376</y0>
+          <x1>854</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>866</x0>
+          <y0>376</y0>
+          <x1>885</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>896</x0>
+          <y0>376</y0>
+          <x1>911</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>community</Value>
+        <Coordinates>
+          <x0>921</x0>
+          <y0>376</y0>
+          <x1>1061</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>1072</x0>
+          <y0>376</y0>
+          <x1>1177</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>1187</x0>
+          <y0>377</y0>
+          <x1>1255</x1>
+          <y1>400</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1266</x0>
+          <y0>376</y0>
+          <x1>1305</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>security</Value>
+        <Coordinates>
+          <x0>1316</x0>
+          <y0>376</y0>
+          <x1>1415</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>1426</x0>
+          <y0>376</y0>
+          <x1>1531</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>is</Value>
+        <Coordinates>
+          <x0>1542</x0>
+          <y0>376</y0>
+          <x1>1559</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>located</Value>
+        <Coordinates>
+          <x0>1572</x0>
+          <y0>376</y0>
+          <x1>1662</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>1674</x0>
+          <y0>376</y0>
+          <x1>1692</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>1705</x0>
+          <y0>376</y0>
+          <x1>1720</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>community</Value>
+        <Coordinates>
+          <x0>1729</x0>
+          <y0>376</y0>
+          <x1>1869</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>1880</x0>
+          <y0>376</y0>
+          <x1>1985</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>1995</x0>
+          <y0>377</y0>
+          <x1>2063</x1>
+          <y1>400</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>2075</x0>
+          <y0>377</y0>
+          <x1>2099</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>2108</x0>
+          <y0>376</y0>
+          <x1>2148</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>2159</x0>
+          <y0>376</y0>
+          <x1>2275</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>is</Value>
+        <Coordinates>
+          <x0>2286</x0>
+          <y0>376</y0>
+          <x1>2304</x1>
+          <y1>397</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>relying</Value>
+        <Coordinates>
+          <x0>2316</x0>
+          <y0>376</y0>
+          <x1>2397</x1>
+          <y1>402</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>on</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>411</y0>
+          <x1>180</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>other</Value>
+        <Coordinates>
+          <x0>192</x0>
+          <y0>410</y0>
+          <x1>257</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>267</x0>
+          <y0>410</y0>
+          <x1>372</x1>
+          <y1>436</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>located</Value>
+        <Coordinates>
+          <x0>382</x0>
+          <y0>410</y0>
+          <x1>473</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>485</x0>
+          <y0>410</y0>
+          <x1>503</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>514</x0>
+          <y0>410</y0>
+          <x1>529</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>community</Value>
+        <Coordinates>
+          <x0>539</x0>
+          <y0>410</y0>
+          <x1>678</x1>
+          <y1>436</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>property</Value>
+        <Coordinates>
+          <x0>689</x0>
+          <y0>410</y0>
+          <x1>794</x1>
+          <y1>436</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state</Value>
+        <Coordinates>
+          <x0>803</x0>
+          <y0>411</y0>
+          <x1>864</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>as</Value>
+        <Coordinates>
+          <x0>874</x0>
+          <y0>415</y0>
+          <x1>902</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>913</x0>
+          <y0>410</y0>
+          <x1>928</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>basis</Value>
+        <Coordinates>
+          <x0>939</x0>
+          <y0>410</y0>
+          <x1>1003</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>1014</x0>
+          <y0>410</y0>
+          <x1>1046</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>repayment</Value>
+        <Coordinates>
+          <x0>1057</x0>
+          <y0>411</y0>
+          <x1>1191</x1>
+          <y1>436</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1202</x0>
+          <y0>410</y0>
+          <x1>1225</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1233</x0>
+          <y0>410</y0>
+          <x1>1272</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>loan.</Value>
+        <Coordinates>
+          <x0>1284</x0>
+          <y0>410</y0>
+          <x1>1342</x1>
+          <y1>431</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>If</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>443</y0>
+          <x1>166</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>175</x0>
+          <y0>443</y0>
+          <x1>218</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>is</Value>
+        <Coordinates>
+          <x0>230</x0>
+          <y0>443</y0>
+          <x1>247</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>an</Value>
+        <Coordinates>
+          <x0>258</x0>
+          <y0>443</y0>
+          <x1>287</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>application</Value>
+        <Coordinates>
+          <x0>299</x0>
+          <y0>443</y0>
+          <x1>435</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>446</x0>
+          <y0>443</y0>
+          <x1>479</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>joint</Value>
+        <Coordinates>
+          <x0>487</x0>
+          <y0>443</y0>
+          <x1>540</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>credit,</Value>
+        <Coordinates>
+          <x0>550</x0>
+          <y0>443</y0>
+          <x1>626</x1>
+          <y1>467</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>639</x0>
+          <y0>443</y0>
+          <x1>754</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>and</Value>
+        <Coordinates>
+          <x0>764</x0>
+          <y0>443</y0>
+          <x1>810</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower</Value>
+        <Coordinates>
+          <x0>821</x0>
+          <y0>442</y0>
+          <x1>984</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>each</Value>
+        <Coordinates>
+          <x0>994</x0>
+          <y0>443</y0>
+          <x1>1054</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>agree</Value>
+        <Coordinates>
+          <x0>1065</x0>
+          <y0>444</y0>
+          <x1>1138</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>that</Value>
+        <Coordinates>
+          <x0>1147</x0>
+          <y0>443</y0>
+          <x1>1195</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>we</Value>
+        <Coordinates>
+          <x0>1204</x0>
+          <y0>443</y0>
+          <x1>1240</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>intend</Value>
+        <Coordinates>
+          <x0>1252</x0>
+          <y0>443</y0>
+          <x1>1328</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>to</Value>
+        <Coordinates>
+          <x0>1337</x0>
+          <y0>443</y0>
+          <x1>1360</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>apply</Value>
+        <Coordinates>
+          <x0>1371</x0>
+          <y0>443</y0>
+          <x1>1439</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>1448</x0>
+          <y0>443</y0>
+          <x1>1481</x1>
+          <y1>464</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>joint</Value>
+        <Coordinates>
+          <x0>1489</x0>
+          <y0>443</y0>
+          <x1>1542</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>credit</Value>
+        <Coordinates>
+          <x0>1552</x0>
+          <y0>443</y0>
+          <x1>1621</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(sign</Value>
+        <Coordinates>
+          <x0>1633</x0>
+          <y0>443</y0>
+          <x1>1691</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>below).</Value>
+        <Coordinates>
+          <x0>1704</x0>
+          <y0>443</y0>
+          <x1>1792</x1>
+          <y1>469</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>555</y0>
+          <x1>267</x1>
+          <y1>576</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower</Value>
+        <Coordinates>
+          <x0>1314</x0>
+          <y0>554</y0>
+          <x1>1475</x1>
+          <y1>576</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1.</Value>
+        <Coordinates>
+          <x0>906</x0>
+          <y0>597</y0>
+          <x1>920</x1>
+          <y1>620</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>TYPE</Value>
+        <Coordinates>
+          <x0>932</x0>
+          <y0>597</y0>
+          <x1>1017</x1>
+          <y1>622</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>1029</x0>
+          <y0>597</y0>
+          <x1>1073</x1>
+          <y1>622</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>MORTGAGE</Value>
+        <Coordinates>
+          <x0>1085</x0>
+          <y0>597</y0>
+          <x1>1279</x1>
+          <y1>622</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>AND</Value>
+        <Coordinates>
+          <x0>1291</x0>
+          <y0>597</y0>
+          <x1>1360</x1>
+          <y1>620</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>TERMS</Value>
+        <Coordinates>
+          <x0>1370</x0>
+          <y0>597</y0>
+          <x1>1487</x1>
+          <y1>622</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>1497</x0>
+          <y0>597</y0>
+          <x1>1541</x1>
+          <y1>621</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>LOAN</Value>
+        <Coordinates>
+          <x0>1555</x0>
+          <y0>597</y0>
+          <x1>1643</x1>
+          <y1>622</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mortgage</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>641</y0>
+          <x1>300</x1>
+          <y1>675</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>0</Value>
+        <Coordinates>
+          <x0>349</x0>
+          <y0>641</y0>
+          <x1>399</x1>
+          <y1>674</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>VA</Value>
+        <Coordinates>
+          <x0>411</x0>
+          <y0>641</y0>
+          <x1>454</x1>
+          <y1>673</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>504</x0>
+          <y0>641</y0>
+          <x1>554</x1>
+          <y1>673</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Conventional</Value>
+        <Coordinates>
+          <x0>562</x0>
+          <y0>645</y0>
+          <x1>752</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>DOther</Value>
+        <Coordinates>
+          <x0>787</x0>
+          <y0>641</y0>
+          <x1>924</x1>
+          <y1>674</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(explain):</Value>
+        <Coordinates>
+          <x0>936</x0>
+          <y0>646</y0>
+          <x1>1068</x1>
+          <y1>676</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Agency</Value>
+        <Coordinates>
+          <x0>1242</x0>
+          <y0>645</y0>
+          <x1>1352</x1>
+          <y1>676</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Case</Value>
+        <Coordinates>
+          <x0>1363</x0>
+          <y0>645</y0>
+          <x1>1438</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Number</Value>
+        <Coordinates>
+          <x0>1451</x0>
+          <y0>646</y0>
+          <x1>1566</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Lender</Value>
+        <Coordinates>
+          <x0>1838</x0>
+          <y0>645</y0>
+          <x1>1938</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Case</Value>
+        <Coordinates>
+          <x0>1950</x0>
+          <y0>645</y0>
+          <x1>2024</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Number</Value>
+        <Coordinates>
+          <x0>2038</x0>
+          <y0>646</y0>
+          <x1>2152</x1>
+          <y1>670</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Applied</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>693</y0>
+          <x1>270</x1>
+          <y1>723</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for:</Value>
+        <Coordinates>
+          <x0>283</x0>
+          <y0>685</y0>
+          <x1>335</x1>
+          <y1>718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>349</x0>
+          <y0>685</y0>
+          <x1>398</x1>
+          <y1>718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>FHA</Value>
+        <Coordinates>
+          <x0>414</x0>
+          <y0>685</y0>
+          <x1>475</x1>
+          <y1>718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>504</x0>
+          <y0>685</y0>
+          <x1>554</x1>
+          <y1>718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>USDA/Rural</Value>
+        <Coordinates>
+          <x0>564</x0>
+          <y0>692</y0>
+          <x1>738</x1>
+          <y1>717</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>123456789</Value>
+        <Coordinates>
+          <x0>1845</x0>
+          <y0>705</y0>
+          <x1>2009</x1>
+          <y1>729</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Housing</Value>
+        <Coordinates>
+          <x0>563</x0>
+          <y0>731</y0>
+          <x1>680</x1>
+          <y1>761</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Service</Value>
+        <Coordinates>
+          <x0>694</x0>
+          <y0>730</y0>
+          <x1>801</x1>
+          <y1>755</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Amount</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>780</y0>
+          <x1>264</x1>
+          <y1>805</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Interest</Value>
+        <Coordinates>
+          <x0>578</x0>
+          <y0>780</y0>
+          <x1>685</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rate</Value>
+        <Coordinates>
+          <x0>699</x0>
+          <y0>780</y0>
+          <x1>764</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>841</x0>
+          <y0>780</y0>
+          <x1>887</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>900</x0>
+          <y0>780</y0>
+          <x1>927</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Months</Value>
+        <Coordinates>
+          <x0>938</x0>
+          <y0>780</y0>
+          <x1>1043</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Amortization</Value>
+        <Coordinates>
+          <x0>1101</x0>
+          <y0>774</y0>
+          <x1>1302</x1>
+          <y1>808</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>01</Value>
+        <Coordinates>
+          <x0>1310</x0>
+          <y0>774</y0>
+          <x1>1359</x1>
+          <y1>808</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Fixed</Value>
+        <Coordinates>
+          <x0>1373</x0>
+          <y0>779</y0>
+          <x1>1448</x1>
+          <y1>803</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rate</Value>
+        <Coordinates>
+          <x0>1463</x0>
+          <y0>775</y0>
+          <x1>1529</x1>
+          <y1>808</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>1551</x0>
+          <y0>775</y0>
+          <x1>1601</x1>
+          <y1>808</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Other</Value>
+        <Coordinates>
+          <x0>1614</x0>
+          <y0>780</y0>
+          <x1>1696</x1>
+          <y1>804</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(explain):</Value>
+        <Coordinates>
+          <x0>1708</x0>
+          <y0>780</y0>
+          <x1>1839</x1>
+          <y1>810</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>825</y0>
+          <x1>169</x1>
+          <y1>854</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>113,750.00</Value>
+        <Coordinates>
+          <x0>183</x0>
+          <y0>831</y0>
+          <x1>346</x1>
+          <y1>860</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>4.500</Value>
+        <Coordinates>
+          <x0>635</x0>
+          <y0>829</y0>
+          <x1>716</x1>
+          <y1>854</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>%</Value>
+        <Coordinates>
+          <x0>774</x0>
+          <y0>829</y0>
+          <x1>800</x1>
+          <y1>852</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>360</Value>
+        <Coordinates>
+          <x0>919</x0>
+          <y0>829</y0>
+          <x1>971</x1>
+          <y1>853</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Type:</Value>
+        <Coordinates>
+          <x0>1100</x0>
+          <y0>827</y0>
+          <x1>1184</x1>
+          <y1>858</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>1309</x0>
+          <y0>818</y0>
+          <x1>1359</x1>
+          <y1>852</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>GPM</Value>
+        <Coordinates>
+          <x0>1370</x0>
+          <y0>826</y0>
+          <x1>1441</x1>
+          <y1>849</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>¤</Value>
+        <Coordinates>
+          <x0>1552</x0>
+          <y0>817</y0>
+          <x1>1602</x1>
+          <y1>852</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ARM</Value>
+        <Coordinates>
+          <x0>1613</x0>
+          <y0>826</y0>
+          <x1>1684</x1>
+          <y1>856</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(type)</Value>
+        <Coordinates>
+          <x0>1697</x0>
+          <y0>827</y0>
+          <x1>1777</x1>
+          <y1>857</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>11.</Value>
+        <Coordinates>
+          <x0>838</x0>
+          <y0>877</y0>
+          <x1>861</x1>
+          <y1>900</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>PROPERTY</Value>
+        <Coordinates>
+          <x0>876</x0>
+          <y0>877</y0>
+          <x1>1054</x1>
+          <y1>903</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>INFORMATION</Value>
+        <Coordinates>
+          <x0>1067</x0>
+          <y0>877</y0>
+          <x1>1299</x1>
+          <y1>902</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>AND</Value>
+        <Coordinates>
+          <x0>1312</x0>
+          <y0>877</y0>
+          <x1>1381</x1>
+          <y1>903</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>PURPOSE</Value>
+        <Coordinates>
+          <x0>1394</x0>
+          <y0>877</y0>
+          <x1>1553</x1>
+          <y1>902</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>1564</x0>
+          <y0>877</y0>
+          <x1>1608</x1>
+          <y1>902</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>LOAN</Value>
+        <Coordinates>
+          <x0>1622</x0>
+          <y0>877</y0>
+          <x1>1710</x1>
+          <y1>902</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Subject</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>925</y0>
+          <x1>260</x1>
+          <y1>956</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Properly</Value>
+        <Coordinates>
+          <x0>273</x0>
+          <y0>926</y0>
+          <x1>396</x1>
+          <y1>955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>407</x0>
+          <y0>926</y0>
+          <x1>526</x1>
+          <y1>950</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(street,</Value>
+        <Coordinates>
+          <x0>539</x0>
+          <y0>926</y0>
+          <x1>638</x1>
+          <y1>956</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>city,</Value>
+        <Coordinates>
+          <x0>651</x0>
+          <y0>926</y0>
+          <x1>706</x1>
+          <y1>956</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>719</x0>
+          <y0>927</y0>
+          <x1>797</x1>
+          <y1>954</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>&amp;</Value>
+        <Coordinates>
+          <x0>811</x0>
+          <y0>926</y0>
+          <x1>830</x1>
+          <y1>950</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ZIP)</Value>
+        <Coordinates>
+          <x0>842</x0>
+          <y0>926</y0>
+          <x1>900</x1>
+          <y1>956</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>2189</x0>
+          <y0>926</y0>
+          <x1>2234</x1>
+          <y1>950</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>2248</x0>
+          <y0>926</y0>
+          <x1>2274</x1>
+          <y1>950</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Units</Value>
+        <Coordinates>
+          <x0>2287</x0>
+          <y0>926</y0>
+          <x1>2357</x1>
+          <y1>950</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>2015</Value>
+        <Coordinates>
+          <x0>155</x0>
+          <y0>977</y0>
+          <x1>227</x1>
+          <y1>1001</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>W</Value>
+        <Coordinates>
+          <x0>239</x0>
+          <y0>977</y0>
+          <x1>269</x1>
+          <y1>1000</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test</Value>
+        <Coordinates>
+          <x0>280</x0>
+          <y0>976</y0>
+          <x1>363</x1>
+          <y1>1003</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>St,</Value>
+        <Coordinates>
+          <x0>373</x0>
+          <y0>976</y0>
+          <x1>412</x1>
+          <y1>1003</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test City,</Value>
+        <Coordinates>
+          <x0>424</x0>
+          <y0>977</y0>
+          <x1>539</x1>
+          <y1>1003</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>FL</Value>
+        <Coordinates>
+          <x0>553</x0>
+          <y0>977</y0>
+          <x1>590</x1>
+          <y1>1000</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>33604-4624</Value>
+        <Coordinates>
+          <x0>602</x0>
+          <y0>977</y0>
+          <x1>777</x1>
+          <y1>1001</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Countv:</Value>
+        <Coordinates>
+          <x0>789</x0>
+          <y0>976</y0>
+          <x1>912</x1>
+          <y1>1003</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Hillsborouah</Value>
+        <Coordinates>
+          <x0>925</x0>
+          <y0>977</y0>
+          <x1>1125</x1>
+          <y1>1003</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1</Value>
+        <Coordinates>
+          <x0>2294</x0>
+          <y0>978</y0>
+          <x1>2304</x1>
+          <y1>1000</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Legal</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>1018</y0>
+          <x1>229</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Description</Value>
+        <Coordinates>
+          <x0>244</x0>
+          <y0>1018</y0>
+          <x1>405</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>418</x0>
+          <y0>1018</y0>
+          <x1>444</x1>
+          <y1>1042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Subject</Value>
+        <Coordinates>
+          <x0>456</x0>
+          <y0>1017</y0>
+          <x1>563</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Properly</Value>
+        <Coordinates>
+          <x0>577</x0>
+          <y0>1018</y0>
+          <x1>700</x1>
+          <y1>1047</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(attach</Value>
+        <Coordinates>
+          <x0>711</x0>
+          <y0>1018</y0>
+          <x1>809</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>description</Value>
+        <Coordinates>
+          <x0>822</x0>
+          <y0>1018</y0>
+          <x1>979</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>993</x0>
+          <y0>1018</y0>
+          <x1>1008</x1>
+          <y1>1041</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>necessary)</Value>
+        <Coordinates>
+          <x0>1019</x0>
+          <y0>1018</y0>
+          <x1>1175</x1>
+          <y1>1048</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Year</Value>
+        <Coordinates>
+          <x0>2187</x0>
+          <y0>1017</y0>
+          <x1>2256</x1>
+          <y1>1041</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Built</Value>
+        <Coordinates>
+          <x0>2268</x0>
+          <y0>1017</y0>
+          <x1>2328</x1>
+          <y1>1041</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>W</Value>
+        <Coordinates>
+          <x0>155</x0>
+          <y0>1074</y0>
+          <x1>185</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>67.5'</Value>
+        <Coordinates>
+          <x0>196</x0>
+          <y0>1074</y0>
+          <x1>266</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>278</x0>
+          <y0>1073</y0>
+          <x1>322</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>S</Value>
+        <Coordinates>
+          <x0>334</x0>
+          <y0>1073</y0>
+          <x1>354</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>161.83'</Value>
+        <Coordinates>
+          <x0>366</x0>
+          <y0>1074</y0>
+          <x1>472</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>484</x0>
+          <y0>1074</y0>
+          <x1>528</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>E</Value>
+        <Coordinates>
+          <x0>542</x0>
+          <y0>1074</y0>
+          <x1>560</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>92.5'</Value>
+        <Coordinates>
+          <x0>571</x0>
+          <y0>1074</y0>
+          <x1>641</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>653</x0>
+          <y0>1073</y0>
+          <x1>697</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>SW</Value>
+        <Coordinates>
+          <x0>709</x0>
+          <y0>1073</y0>
+          <x1>761</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1/4</Value>
+        <Coordinates>
+          <x0>773</x0>
+          <y0>1074</y0>
+          <x1>816</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OF</Value>
+        <Coordinates>
+          <x0>827</x0>
+          <y0>1074</y0>
+          <x1>871</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>NW</Value>
+        <Coordinates>
+          <x0>884</x0>
+          <y0>1074</y0>
+          <x1>937</x1>
+          <y1>1097</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1/4</Value>
+        <Coordinates>
+          <x0>949</x0>
+          <y0>1074</y0>
+          <x1>992</x1>
+          <y1>1097</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>LESS</Value>
+        <Coordinates>
+          <x0>1005</x0>
+          <y0>1073</y0>
+          <x1>1088</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>S</Value>
+        <Coordinates>
+          <x0>1100</x0>
+          <y0>1073</y0>
+          <x1>1120</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>30'</Value>
+        <Coordinates>
+          <x0>1131</x0>
+          <y0>1074</y0>
+          <x1>1173</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>FOR</Value>
+        <Coordinates>
+          <x0>1186</x0>
+          <y0>1074</y0>
+          <x1>1253</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>RD,</Value>
+        <Coordinates>
+          <x0>1267</x0>
+          <y0>1074</y0>
+          <x1>1319</x1>
+          <y1>1103</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>BP</Value>
+        <Coordinates>
+          <x0>1334</x0>
+          <y0>1074</y0>
+          <x1>1376</x1>
+          <y1>1097</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>43/79</Value>
+        <Coordinates>
+          <x0>1387</x0>
+          <y0>1074</y0>
+          <x1>1467</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1956</Value>
+        <Coordinates>
+          <x0>2266</x0>
+          <y0>1074</y0>
+          <x1>2336</x1>
+          <y1>1098</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Purpose</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>1179</y0>
+          <x1>272</x1>
+          <y1>1208</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>283</x0>
+          <y0>1177</y0>
+          <x1>311</x1>
+          <y1>1203</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Loan:[Il</Value>
+        <Coordinates>
+          <x0>322</x0>
+          <y0>1173</y0>
+          <x1>458</x1>
+          <y1>1206</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Purchase</Value>
+        <Coordinates>
+          <x0>473</x0>
+          <y0>1173</y0>
+          <x1>610</x1>
+          <y1>1206</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>656</x0>
+          <y0>1173</y0>
+          <x1>706</x1>
+          <y1>1207</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Construction</Value>
+        <Coordinates>
+          <x0>716</x0>
+          <y0>1178</y0>
+          <x1>898</x1>
+          <y1>1203</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>1028</x0>
+          <y0>1173</y0>
+          <x1>1076</x1>
+          <y1>1207</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Other</Value>
+        <Coordinates>
+          <x0>1089</x0>
+          <y0>1179</y0>
+          <x1>1172</x1>
+          <y1>1202</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(explain):</Value>
+        <Coordinates>
+          <x0>1184</x0>
+          <y0>1179</y0>
+          <x1>1315</x1>
+          <y1>1209</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Property</Value>
+        <Coordinates>
+          <x0>1553</x0>
+          <y0>1179</y0>
+          <x1>1675</x1>
+          <y1>1209</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>1685</x0>
+          <y0>1179</y0>
+          <x1>1729</x1>
+          <y1>1203</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be:</Value>
+        <Coordinates>
+          <x0>1743</x0>
+          <y0>1179</y0>
+          <x1>1784</x1>
+          <y1>1203</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>E]</Value>
+        <Coordinates>
+          <x0>410</x0>
+          <y0>1217</y0>
+          <x1>459</x1>
+          <y1>1249</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Refinance</Value>
+        <Coordinates>
+          <x0>474</x0>
+          <y0>1217</y0>
+          <x1>619</x1>
+          <y1>1249</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>E</Value>
+        <Coordinates>
+          <x0>657</x0>
+          <y0>1217</y0>
+          <x1>706</x1>
+          <y1>1249</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Construction-Permanent</Value>
+        <Coordinates>
+          <x0>716</x0>
+          <y0>1220</y0>
+          <x1>1073</x1>
+          <y1>1245</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>11</Value>
+        <Coordinates>
+          <x0>1550</x0>
+          <y0>1213</y0>
+          <x1>1599</x1>
+          <y1>1247</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Primary</Value>
+        <Coordinates>
+          <x0>1615</x0>
+          <y0>1214</y0>
+          <x1>1727</x1>
+          <y1>1247</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>0</Value>
+        <Coordinates>
+          <x0>1792</x0>
+          <y0>1214</y0>
+          <x1>1842</x1>
+          <y1>1247</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Secondary</Value>
+        <Coordinates>
+          <x0>1859</x0>
+          <y0>1214</y0>
+          <x1>2015</x1>
+          <y1>1247</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1</Value>
+        <Coordinates>
+          <x0>2057</x0>
+          <y0>1214</y0>
+          <x1>2108</x1>
+          <y1>1247</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Investment</Value>
+        <Coordinates>
+          <x0>2122</x0>
+          <y0>1217</y0>
+          <x1>2280</x1>
+          <y1>1241</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Residence</Value>
+        <Coordinates>
+          <x0>1616</x0>
+          <y0>1256</y0>
+          <x1>1768</x1>
+          <y1>1280</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Residence</Value>
+        <Coordinates>
+          <x0>1860</x0>
+          <y0>1256</y0>
+          <x1>2012</x1>
+          <y1>1280</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Complete</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>1299</y0>
+          <x1>301</x1>
+          <y1>1330</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>311</x0>
+          <y0>1300</y0>
+          <x1>371</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>line</Value>
+        <Coordinates>
+          <x0>383</x0>
+          <y0>1300</y0>
+          <x1>438</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>449</x0>
+          <y0>1300</y0>
+          <x1>465</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>construction</Value>
+        <Coordinates>
+          <x0>477</x0>
+          <y0>1300</y0>
+          <x1>676</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>688</x0>
+          <y0>1306</y0>
+          <x1>719</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>construction-permanent</Value>
+        <Coordinates>
+          <x0>731</x0>
+          <y0>1300</y0>
+          <x1>1113</x1>
+          <y1>1330</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>loan.</Value>
+        <Coordinates>
+          <x0>1125</x0>
+          <y0>1300</y0>
+          <x1>1197</x1>
+          <y1>1324</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Year</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>1347</y0>
+          <x1>220</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Lot</Value>
+        <Coordinates>
+          <x0>232</x0>
+          <y0>1347</y0>
+          <x1>274</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Acquired</Value>
+        <Coordinates>
+          <x0>286</x0>
+          <y0>1347</y0>
+          <x1>413</x1>
+          <y1>1377</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Original</Value>
+        <Coordinates>
+          <x0>464</x0>
+          <y0>1346</y0>
+          <x1>576</x1>
+          <y1>1378</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Cost</Value>
+        <Coordinates>
+          <x0>589</x0>
+          <y0>1346</y0>
+          <x1>654</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Amount</Value>
+        <Coordinates>
+          <x0>845</x0>
+          <y0>1347</y0>
+          <x1>957</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Existing</Value>
+        <Coordinates>
+          <x0>971</x0>
+          <y0>1347</y0>
+          <x1>1082</x1>
+          <y1>1377</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Liens</Value>
+        <Coordinates>
+          <x0>1096</x0>
+          <y0>1336</y0>
+          <x1>1170</x1>
+          <y1>1383</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(a)</Value>
+        <Coordinates>
+          <x0>1199</x0>
+          <y0>1336</y0>
+          <x1>1250</x1>
+          <y1>1383</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Present</Value>
+        <Coordinates>
+          <x0>1265</x0>
+          <y0>1347</y0>
+          <x1>1376</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Value</Value>
+        <Coordinates>
+          <x0>1387</x0>
+          <y0>1347</y0>
+          <x1>1470</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1482</x0>
+          <y0>1347</y0>
+          <x1>1508</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Lot</Value>
+        <Coordinates>
+          <x0>1521</x0>
+          <y0>1347</y0>
+          <x1>1562</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>465</x0>
+          <y0>1400</y0>
+          <x1>480</x1>
+          <y1>1429</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>845</x0>
+          <y0>1400</y0>
+          <x1>860</x1>
+          <y1>1429</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>I$</Value>
+        <Coordinates>
+          <x0>1199</x0>
+          <y0>1384</y0>
+          <x1>1228</x1>
+          <y1>1435</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(b)</Value>
+        <Coordinates>
+          <x0>1607</x0>
+          <y0>1346</y0>
+          <x1>1643</x1>
+          <y1>1377</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Cost</Value>
+        <Coordinates>
+          <x0>1657</x0>
+          <y0>1346</y0>
+          <x1>1722</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1734</x0>
+          <y0>1347</y0>
+          <x1>1760</x1>
+          <y1>1371</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Improvements</Value>
+        <Coordinates>
+          <x0>1773</x0>
+          <y0>1336</y0>
+          <x1>1980</x1>
+          <y1>1383</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>2009</x0>
+          <y0>1336</y0>
+          <x1>2013</x1>
+          <y1>1383</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Total</Value>
+        <Coordinates>
+          <x0>2025</x0>
+          <y0>1346</y0>
+          <x1>2095</x1>
+          <y1>1376</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(a+b)</Value>
+        <Coordinates>
+          <x0>2108</x0>
+          <y0>1346</y0>
+          <x1>2181</x1>
+          <y1>1376</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>1606</x0>
+          <y0>1400</y0>
+          <x1>1621</x1>
+          <y1>1429</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>I$</Value>
+        <Coordinates>
+          <x0>2010</x0>
+          <y0>1385</y0>
+          <x1>2040</x1>
+          <y1>1435</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Complete</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>1450</y0>
+          <x1>301</x1>
+          <y1>1481</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>311</x0>
+          <y0>1451</y0>
+          <x1>371</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>line</Value>
+        <Coordinates>
+          <x0>383</x0>
+          <y0>1451</y0>
+          <x1>438</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>449</x0>
+          <y0>1451</y0>
+          <x1>466</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>476</x0>
+          <y0>1451</y0>
+          <x1>536</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>is</Value>
+        <Coordinates>
+          <x0>548</x0>
+          <y0>1451</y0>
+          <x1>572</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>a</Value>
+        <Coordinates>
+          <x0>582</x0>
+          <y0>1451</y0>
+          <x1>600</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>refinance</Value>
+        <Coordinates>
+          <x0>611</x0>
+          <y0>1451</y0>
+          <x1>758</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>loan.</Value>
+        <Coordinates>
+          <x0>770</x0>
+          <y0>1451</y0>
+          <x1>841</x1>
+          <y1>1475</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Year</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>1497</y0>
+          <x1>220</x1>
+          <y1>1521</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Acquired</Value>
+        <Coordinates>
+          <x0>230</x0>
+          <y0>1497</y0>
+          <x1>357</x1>
+          <y1>1527</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Original</Value>
+        <Coordinates>
+          <x0>464</x0>
+          <y0>1496</y0>
+          <x1>576</x1>
+          <y1>1528</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Cost</Value>
+        <Coordinates>
+          <x0>589</x0>
+          <y0>1496</y0>
+          <x1>654</x1>
+          <y1>1521</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>465</x0>
+          <y0>1538</y0>
+          <x1>480</x1>
+          <y1>1567</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Amount</Value>
+        <Coordinates>
+          <x0>845</x0>
+          <y0>1497</y0>
+          <x1>957</x1>
+          <y1>1521</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Existing</Value>
+        <Coordinates>
+          <x0>971</x0>
+          <y0>1497</y0>
+          <x1>1082</x1>
+          <y1>1527</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Liens</Value>
+        <Coordinates>
+          <x0>1096</x0>
+          <y0>1497</y0>
+          <x1>1170</x1>
+          <y1>1590</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>1199</x0>
+          <y0>1497</y0>
+          <x1>1202</x1>
+          <y1>1590</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Purpose</Value>
+        <Coordinates>
+          <x0>1214</x0>
+          <y0>1497</y0>
+          <x1>1335</x1>
+          <y1>1526</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1345</x0>
+          <y0>1497</y0>
+          <x1>1373</x1>
+          <y1>1520</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Refinance</Value>
+        <Coordinates>
+          <x0>1385</x0>
+          <y0>1497</y0>
+          <x1>1530</x1>
+          <y1>1521</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>845</x0>
+          <y0>1538</y0>
+          <x1>860</x1>
+          <y1>1567</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Describe</Value>
+        <Coordinates>
+          <x0>1721</x0>
+          <y0>1497</y0>
+          <x1>1831</x1>
+          <y1>1518</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Improvements</Value>
+        <Coordinates>
+          <x0>1844</x0>
+          <y0>1491</y0>
+          <x1>2024</x1>
+          <y1>1524</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>2039</x0>
+          <y0>1491</y0>
+          <x1>2088</x1>
+          <y1>1524</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>made</Value>
+        <Coordinates>
+          <x0>2099</x0>
+          <y0>1492</y0>
+          <x1>2170</x1>
+          <y1>1525</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>2190</x0>
+          <y0>1492</y0>
+          <x1>2240</x1>
+          <y1>1525</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>to</Value>
+        <Coordinates>
+          <x0>2252</x0>
+          <y0>1497</y0>
+          <x1>2276</x1>
+          <y1>1518</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>2287</x0>
+          <y0>1497</y0>
+          <x1>2316</x1>
+          <y1>1518</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>made</Value>
+        <Coordinates>
+          <x0>2327</x0>
+          <y0>1497</y0>
+          <x1>2396</x1>
+          <y1>1518</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Cost</Value>
+        <Coordinates>
+          <x0>1720</x0>
+          <y0>1541</y0>
+          <x1>1785</x1>
+          <y1>1570</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>$</Value>
+        <Coordinates>
+          <x0>1796</x0>
+          <y0>1541</y0>
+          <x1>1811</x1>
+          <y1>1570</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Title</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>1606</y0>
+          <x1>211</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>222</x0>
+          <y0>1606</y0>
+          <x1>266</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>280</x0>
+          <y0>1606</y0>
+          <x1>313</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>held</Value>
+        <Coordinates>
+          <x0>326</x0>
+          <y0>1606</y0>
+          <x1>384</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>398</x0>
+          <y0>1606</y0>
+          <x1>419</x1>
+          <y1>1629</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>what</Value>
+        <Coordinates>
+          <x0>431</x0>
+          <y0>1606</y0>
+          <x1>500</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Name(s)</Value>
+        <Coordinates>
+          <x0>514</x0>
+          <y0>1606</y0>
+          <x1>635</x1>
+          <y1>1636</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Manner</Value>
+        <Coordinates>
+          <x0>1383</x0>
+          <y0>1606</y0>
+          <x1>1493</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>1505</x0>
+          <y0>1606</y0>
+          <x1>1526</x1>
+          <y1>1629</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>which</Value>
+        <Coordinates>
+          <x0>1538</x0>
+          <y0>1606</y0>
+          <x1>1620</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Title</Value>
+        <Coordinates>
+          <x0>1633</x0>
+          <y0>1606</y0>
+          <x1>1694</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>1705</x0>
+          <y0>1606</y0>
+          <x1>1748</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>1762</x0>
+          <y0>1606</y0>
+          <x1>1795</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>held</Value>
+        <Coordinates>
+          <x0>1808</x0>
+          <y0>1606</y0>
+          <x1>1866</x1>
+          <y1>1630</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Estate</Value>
+        <Coordinates>
+          <x0>2126</x0>
+          <y0>1605</y0>
+          <x1>2205</x1>
+          <y1>1626</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>will</Value>
+        <Coordinates>
+          <x0>2214</x0>
+          <y0>1605</y0>
+          <x1>2252</x1>
+          <y1>1626</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>be</Value>
+        <Coordinates>
+          <x0>2265</x0>
+          <y0>1605</y0>
+          <x1>2294</x1>
+          <y1>1626</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>held</Value>
+        <Coordinates>
+          <x0>2306</x0>
+          <y0>1605</y0>
+          <x1>2357</x1>
+          <y1>1626</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in:</Value>
+        <Coordinates>
+          <x0>2369</x0>
+          <y0>1605</y0>
+          <x1>2394</x1>
+          <y1>1625</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>01</Value>
+        <Coordinates>
+          <x0>2128</x0>
+          <y0>1636</y0>
+          <x1>2176</x1>
+          <y1>1669</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Fee</Value>
+        <Coordinates>
+          <x0>2200</x0>
+          <y0>1642</y0>
+          <x1>2246</x1>
+          <y1>1665</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Simple</Value>
+        <Coordinates>
+          <x0>2258</x0>
+          <y0>1642</y0>
+          <x1>2343</x1>
+          <y1>1669</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>John</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>1667</y0>
+          <x1>240</x1>
+          <y1>1691</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Homeowner1</Value>
+        <Coordinates>
+          <x0>254</x0>
+          <y0>1667</y0>
+          <x1>358</x1>
+          <y1>1691</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Single</Value>
+        <Coordinates>
+          <x0>1388</x0>
+          <y0>1666</y0>
+          <x1>1485</x1>
+          <y1>1697</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>man</Value>
+        <Coordinates>
+          <x0>1498</x0>
+          <y0>1673</y0>
+          <x1>1561</x1>
+          <y1>1691</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>2127</x0>
+          <y0>1674</y0>
+          <x1>2177</x1>
+          <y1>1706</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Leasehold</Value>
+        <Coordinates>
+          <x0>2199</x0>
+          <y0>1681</y0>
+          <x1>2330</x1>
+          <y1>1701</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Source</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>1717</y0>
+          <x1>254</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>266</x0>
+          <y0>1718</y0>
+          <x1>292</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Down</Value>
+        <Coordinates>
+          <x0>305</x0>
+          <y0>1718</y0>
+          <x1>384</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Payment,</Value>
+        <Coordinates>
+          <x0>399</x0>
+          <y0>1718</y0>
+          <x1>534</x1>
+          <y1>1748</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Settlement</Value>
+        <Coordinates>
+          <x0>548</x0>
+          <y0>1717</y0>
+          <x1>704</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Charges</Value>
+        <Coordinates>
+          <x0>717</x0>
+          <y0>1717</y0>
+          <x1>839</x1>
+          <y1>1748</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>and/or</Value>
+        <Coordinates>
+          <x0>851</x0>
+          <y0>1718</y0>
+          <x1>945</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Subordinate</Value>
+        <Coordinates>
+          <x0>956</x0>
+          <y0>1717</y0>
+          <x1>1132</x1>
+          <y1>1742</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Financing</Value>
+        <Coordinates>
+          <x0>1146</x0>
+          <y0>1718</y0>
+          <x1>1285</x1>
+          <y1>1748</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(explain)</Value>
+        <Coordinates>
+          <x0>1299</x0>
+          <y0>1718</y0>
+          <x1>1420</x1>
+          <y1>1748</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(show</Value>
+        <Coordinates>
+          <x0>2125</x0>
+          <y0>1714</y0>
+          <x1>2195</x1>
+          <y1>1739</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>expiration</Value>
+        <Coordinates>
+          <x0>2204</x0>
+          <y0>1714</y0>
+          <x1>2318</x1>
+          <y1>1739</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>date)</Value>
+        <Coordinates>
+          <x0>2329</x0>
+          <y0>1714</y0>
+          <x1>2386</x1>
+          <y1>1739</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>UnsecuredBorrowedFunds</Value>
+        <Coordinates>
+          <x0>156</x0>
+          <y0>1764</y0>
+          <x1>578</x1>
+          <y1>1788</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Florida</Value>
+        <Coordinates>
+          <x0>155</x0>
+          <y0>1808</y0>
+          <x1>263</x1>
+          <y1>1832</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Hardest</Value>
+        <Coordinates>
+          <x0>275</x0>
+          <y0>1808</y0>
+          <x1>396</x1>
+          <y1>1832</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Hit</Value>
+        <Coordinates>
+          <x0>409</x0>
+          <y0>1808</y0>
+          <x1>450</x1>
+          <y1>1832</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Fund</Value>
+        <Coordinates>
+          <x0>462</x0>
+          <y0>1808</y0>
+          <x1>539</x1>
+          <y1>1832</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>453</x0>
+          <y0>1853</y0>
+          <x1>596</x1>
+          <y1>1878</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>111.</Value>
+        <Coordinates>
+          <x0>1030</x0>
+          <y0>1853</y0>
+          <x1>1063</x1>
+          <y1>1876</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>BORROWER</Value>
+        <Coordinates>
+          <x0>1078</x0>
+          <y0>1853</y0>
+          <x1>1275</x1>
+          <y1>1878</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>INFORMATION</Value>
+        <Coordinates>
+          <x0>1288</x0>
+          <y0>1853</y0>
+          <x1>1518</x1>
+          <y1>1878</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower</Value>
+        <Coordinates>
+          <x0>1876</x0>
+          <y0>1853</y0>
+          <x1>2077</x1>
+          <y1>1878</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower's</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>1903</y0>
+          <x1>309</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Name</Value>
+        <Coordinates>
+          <x0>322</x0>
+          <y0>1903</y0>
+          <x1>407</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(include</Value>
+        <Coordinates>
+          <x0>420</x0>
+          <y0>1903</y0>
+          <x1>533</x1>
+          <y1>1933</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Jr.</Value>
+        <Coordinates>
+          <x0>544</x0>
+          <y0>1903</y0>
+          <x1>577</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>591</x0>
+          <y0>1902</y0>
+          <x1>619</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Sr.</Value>
+        <Coordinates>
+          <x0>631</x0>
+          <y0>1902</y0>
+          <x1>668</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>683</x0>
+          <y0>1903</y0>
+          <x1>697</x1>
+          <y1>1926</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>applicable)</Value>
+        <Coordinates>
+          <x0>708</x0>
+          <y0>1903</y0>
+          <x1>863</x1>
+          <y1>1933</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower's</Value>
+        <Coordinates>
+          <x0>1306</x0>
+          <y0>1902</y0>
+          <x1>1516</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Name</Value>
+        <Coordinates>
+          <x0>1529</x0>
+          <y0>1903</y0>
+          <x1>1614</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(include</Value>
+        <Coordinates>
+          <x0>1626</x0>
+          <y0>1903</y0>
+          <x1>1740</x1>
+          <y1>1933</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Jr.</Value>
+        <Coordinates>
+          <x0>1751</x0>
+          <y0>1903</y0>
+          <x1>1784</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1798</x0>
+          <y0>1902</y0>
+          <x1>1826</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Sr.</Value>
+        <Coordinates>
+          <x0>1838</x0>
+          <y0>1902</y0>
+          <x1>1875</x1>
+          <y1>1927</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>1889</x0>
+          <y0>1903</y0>
+          <x1>1904</x1>
+          <y1>1926</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>applicable)</Value>
+        <Coordinates>
+          <x0>1914</x0>
+          <y0>1903</y0>
+          <x1>2070</x1>
+          <y1>1933</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>John</Value>
+        <Coordinates>
+          <x0>158</x0>
+          <y0>1948</y0>
+          <x1>244</x1>
+          <y1>1972</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Homeowner1</Value>
+        <Coordinates>
+          <x0>268</x0>
+          <y0>1948</y0>
+          <x1>372</x1>
+          <y1>1972</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Social</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>1993</y0>
+          <x1>223</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Security</Value>
+        <Coordinates>
+          <x0>233</x0>
+          <y0>1993</y0>
+          <x1>329</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Number</Value>
+        <Coordinates>
+          <x0>339</x0>
+          <y0>1993</y0>
+          <x1>434</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Home</Value>
+        <Coordinates>
+          <x0>491</x0>
+          <y0>1993</y0>
+          <x1>560</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Phone</Value>
+        <Coordinates>
+          <x0>570</x0>
+          <y0>1993</y0>
+          <x1>646</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(incl.</Value>
+        <Coordinates>
+          <x0>655</x0>
+          <y0>1993</y0>
+          <x1>709</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>area</Value>
+        <Coordinates>
+          <x0>720</x0>
+          <y0>1999</y0>
+          <x1>772</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>code)</Value>
+        <Coordinates>
+          <x0>781</x0>
+          <y0>1993</y0>
+          <x1>846</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>DOB</Value>
+        <Coordinates>
+          <x0>878</x0>
+          <y0>1993</y0>
+          <x1>934</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(MM/DD/YYYY)</Value>
+        <Coordinates>
+          <x0>945</x0>
+          <y0>1993</y0>
+          <x1>1130</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>1149</x0>
+          <y0>1993</y0>
+          <x1>1194</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>School</Value>
+        <Coordinates>
+          <x0>1205</x0>
+          <y0>1993</y0>
+          <x1>1285</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Social</Value>
+        <Coordinates>
+          <x0>1299</x0>
+          <y0>1993</y0>
+          <x1>1370</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Security</Value>
+        <Coordinates>
+          <x0>1380</x0>
+          <y0>1993</y0>
+          <x1>1477</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Number</Value>
+        <Coordinates>
+          <x0>1487</x0>
+          <y0>1993</y0>
+          <x1>1581</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Home</Value>
+        <Coordinates>
+          <x0>1615</x0>
+          <y0>1993</y0>
+          <x1>1684</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Phone</Value>
+        <Coordinates>
+          <x0>1695</x0>
+          <y0>1993</y0>
+          <x1>1769</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(incl.</Value>
+        <Coordinates>
+          <x0>1780</x0>
+          <y0>1993</y0>
+          <x1>1833</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>area</Value>
+        <Coordinates>
+          <x0>1844</x0>
+          <y0>1999</y0>
+          <x1>1897</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>code)</Value>
+        <Coordinates>
+          <x0>1905</x0>
+          <y0>1993</y0>
+          <x1>1970</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>DOB</Value>
+        <Coordinates>
+          <x0>1994</x0>
+          <y0>1993</y0>
+          <x1>2050</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(MM/DD/YYYY)</Value>
+        <Coordinates>
+          <x0>2060</x0>
+          <y0>1993</y0>
+          <x1>2246</x1>
+          <y1>2018</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>2263</x0>
+          <y0>1993</y0>
+          <x1>2309</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>School</Value>
+        <Coordinates>
+          <x0>2320</x0>
+          <y0>1993</y0>
+          <x1>2398</x1>
+          <y1>2013</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>111-22-3333</Value>
+        <Coordinates>
+          <x0>158</x0>
+          <y0>2035</y0>
+          <x1>344</x1>
+          <y1>2059</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>123-456-7890</Value>
+        <Coordinates>
+          <x0>496</x0>
+          <y0>2035</y0>
+          <x1>700</x1>
+          <y1>2059</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>01/01/1900</Value>
+        <Coordinates>
+          <x0>883</x0>
+          <y0>2035</y0>
+          <x1>1046</x1>
+          <y1>2059</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>14</Value>
+        <Coordinates>
+          <x0>1206</x0>
+          <y0>2036</y0>
+          <x1>1239</x1>
+          <y1>2058</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>H</Value>
+        <Coordinates>
+          <x0>2000</x0>
+          <y0>2035</y0>
+          <x1>2016</x1>
+          <y1>2058</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>CJMarried</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>2073</y0>
+          <x1>317</x1>
+          <y1>2107</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>00</Value>
+        <Coordinates>
+          <x0>335</x0>
+          <y0>2073</y0>
+          <x1>385</x1>
+          <y1>2107</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Unmarried</Value>
+        <Coordinates>
+          <x0>392</x0>
+          <y0>2082</y0>
+          <x1>525</x1>
+          <y1>2109</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(include</Value>
+        <Coordinates>
+          <x0>536</x0>
+          <y0>2082</y0>
+          <x1>635</x1>
+          <y1>2108</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>single,</Value>
+        <Coordinates>
+          <x0>644</x0>
+          <y0>2079</y0>
+          <x1>726</x1>
+          <y1>2108</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Dependents</Value>
+        <Coordinates>
+          <x0>769</x0>
+          <y0>2079</y0>
+          <x1>922</x1>
+          <y1>2105</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(not</Value>
+        <Coordinates>
+          <x0>934</x0>
+          <y0>2079</y0>
+          <x1>981</x1>
+          <y1>2106</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>listed</Value>
+        <Coordinates>
+          <x0>993</x0>
+          <y0>2079</y0>
+          <x1>1057</x1>
+          <y1>2101</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>by</Value>
+        <Coordinates>
+          <x0>1069</x0>
+          <y0>2075</y0>
+          <x1>1097</x1>
+          <y1>2109</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower)</Value>
+        <Coordinates>
+          <x0>1106</x0>
+          <y0>2075</y0>
+          <x1>1278</x1>
+          <y1>2108</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value></Value>
+        <Coordinates>
+          <x0>1296</x0>
+          <y0>2075</y0>
+          <x1>1347</x1>
+          <y1>2110</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Married</Value>
+        <Coordinates>
+          <x0>1356</x0>
+          <y0>2075</y0>
+          <x1>1464</x1>
+          <y1>2109</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>1479</x0>
+          <y0>2075</y0>
+          <x1>1528</x1>
+          <y1>2109</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Unmarried</Value>
+        <Coordinates>
+          <x0>1539</x0>
+          <y0>2082</y0>
+          <x1>1672</x1>
+          <y1>2109</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(include</Value>
+        <Coordinates>
+          <x0>1683</x0>
+          <y0>2082</y0>
+          <x1>1782</x1>
+          <y1>2108</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>single</Value>
+        <Coordinates>
+          <x0>1791</x0>
+          <y0>2079</y0>
+          <x1>1866</x1>
+          <y1>2108</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Dependents</Value>
+        <Coordinates>
+          <x0>1930</x0>
+          <y0>2079</y0>
+          <x1>2083</x1>
+          <y1>2105</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(not</Value>
+        <Coordinates>
+          <x0>2095</x0>
+          <y0>2079</y0>
+          <x1>2142</x1>
+          <y1>2106</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>listed</Value>
+        <Coordinates>
+          <x0>2153</x0>
+          <y0>2079</y0>
+          <x1>2218</x1>
+          <y1>2101</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>by</Value>
+        <Coordinates>
+          <x0>2229</x0>
+          <y0>2079</y0>
+          <x1>2258</x1>
+          <y1>2106</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower)</Value>
+        <Coordinates>
+          <x0>2268</x0>
+          <y0>2079</y0>
+          <x1>2391</x1>
+          <y1>2105</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>divorced,</Value>
+        <Coordinates>
+          <x0>391</x0>
+          <y0>2117</y0>
+          <x1>506</x1>
+          <y1>2141</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>widowed)</Value>
+        <Coordinates>
+          <x0>516</x0>
+          <y0>2117</y0>
+          <x1>636</x1>
+          <y1>2143</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>no</Value>
+        <Coordinates>
+          <x0>768</x0>
+          <y0>2113</y0>
+          <x1>803</x1>
+          <y1>2152</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ages</Value>
+        <Coordinates>
+          <x0>866</x0>
+          <y0>2113</y0>
+          <x1>934</x1>
+          <y1>2152</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>divorced,</Value>
+        <Coordinates>
+          <x0>1535</x0>
+          <y0>2117</y0>
+          <x1>1650</x1>
+          <y1>2141</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>widowed)</Value>
+        <Coordinates>
+          <x0>1661</x0>
+          <y0>2117</y0>
+          <x1>1781</x1>
+          <y1>2143</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>no</Value>
+        <Coordinates>
+          <x0>1929</x0>
+          <y0>2128</y0>
+          <x1>1962</x1>
+          <y1>2189</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ages</Value>
+        <Coordinates>
+          <x0>2025</x0>
+          <y0>2128</y0>
+          <x1>2092</x1>
+          <y1>2189</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>0</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>2144</y0>
+          <x1>200</x1>
+          <y1>2177</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Separated</Value>
+        <Coordinates>
+          <x0>209</x0>
+          <y0>2150</y0>
+          <x1>357</x1>
+          <y1>2180</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OI</Value>
+        <Coordinates>
+          <x0>810</x0>
+          <y0>2153</y0>
+          <x1>868</x1>
+          <y1>2189</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>0</Value>
+        <Coordinates>
+          <x0>1299</x0>
+          <y0>2144</y0>
+          <x1>1347</x1>
+          <y1>2180</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Separated</Value>
+        <Coordinates>
+          <x0>1357</x0>
+          <y0>2153</y0>
+          <x1>1505</x1>
+          <y1>2184</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Present</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>2203</y0>
+          <x1>264</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>276</x0>
+          <y0>2203</y0>
+          <x1>396</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(street,</Value>
+        <Coordinates>
+          <x0>409</x0>
+          <y0>2203</y0>
+          <x1>507</x1>
+          <y1>2233</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>city,</Value>
+        <Coordinates>
+          <x0>521</x0>
+          <y0>2203</y0>
+          <x1>575</x1>
+          <y1>2233</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>589</x0>
+          <y0>2203</y0>
+          <x1>666</x1>
+          <y1>2231</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ZIP)</Value>
+        <Coordinates>
+          <x0>680</x0>
+          <y0>2197</y0>
+          <x1>739</x1>
+          <y1>2232</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>0</Value>
+        <Coordinates>
+          <x0>777</x0>
+          <y0>2197</y0>
+          <x1>827</x1>
+          <y1>2230</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Own</Value>
+        <Coordinates>
+          <x0>839</x0>
+          <y0>2198</y0>
+          <x1>904</x1>
+          <y1>2231</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>01</Value>
+        <Coordinates>
+          <x0>927</x0>
+          <y0>2198</y0>
+          <x1>976</x1>
+          <y1>2231</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rent</Value>
+        <Coordinates>
+          <x0>991</x0>
+          <y0>2203</y0>
+          <x1>1057</x1>
+          <y1>2226</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>1131</x0>
+          <y0>2203</y0>
+          <x1>1178</x1>
+          <y1>2226</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>1190</x0>
+          <y0>2203</y0>
+          <x1>1246</x1>
+          <y1>2226</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Present</Value>
+        <Coordinates>
+          <x0>1307</x0>
+          <y0>2203</y0>
+          <x1>1418</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>1429</x0>
+          <y0>2203</y0>
+          <x1>1549</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(street,</Value>
+        <Coordinates>
+          <x0>1562</x0>
+          <y0>2203</y0>
+          <x1>1660</x1>
+          <y1>2233</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>city,</Value>
+        <Coordinates>
+          <x0>1674</x0>
+          <y0>2203</y0>
+          <x1>1729</x1>
+          <y1>2233</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>1742</x0>
+          <y0>2202</y0>
+          <x1>1820</x1>
+          <y1>2231</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ZIP)</Value>
+        <Coordinates>
+          <x0>1833</x0>
+          <y0>2199</y0>
+          <x1>1891</x1>
+          <y1>2232</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>D</Value>
+        <Coordinates>
+          <x0>1919</x0>
+          <y0>2199</y0>
+          <x1>1969</x1>
+          <y1>2232</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Own</Value>
+        <Coordinates>
+          <x0>1978</x0>
+          <y0>2201</y0>
+          <x1>2043</x1>
+          <y1>2234</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1</Value>
+        <Coordinates>
+          <x0>2057</x0>
+          <y0>2201</y0>
+          <x1>2106</x1>
+          <y1>2234</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rent</Value>
+        <Coordinates>
+          <x0>2120</x0>
+          <y0>2202</y0>
+          <x1>2186</x1>
+          <y1>2226</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>2290</x0>
+          <y0>2203</y0>
+          <x1>2335</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>2349</x0>
+          <y0>2203</y0>
+          <x1>2403</x1>
+          <y1>2227</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1234</Value>
+        <Coordinates>
+          <x0>155</x0>
+          <y0>2255</y0>
+          <x1>227</x1>
+          <y1>2279</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>E</Value>
+        <Coordinates>
+          <x0>241</x0>
+          <y0>2255</y0>
+          <x1>259</x1>
+          <y1>2278</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test</Value>
+        <Coordinates>
+          <x0>272</x0>
+          <y0>2255</y0>
+          <x1>435</x1>
+          <y1>2285</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Ave</Value>
+        <Coordinates>
+          <x0>448</x0>
+          <y0>2255</y0>
+          <x1>506</x1>
+          <y1>2279</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>2YOM</Value>
+        <Coordinates>
+          <x0>1137</x0>
+          <y0>2255</y0>
+          <x1>1220</x1>
+          <y1>2279</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test City,</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>2294</y0>
+          <x1>269</x1>
+          <y1>2321</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>FL</Value>
+        <Coordinates>
+          <x0>282</x0>
+          <y0>2294</y0>
+          <x1>320</x1>
+          <y1>2317</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>33617</Value>
+        <Coordinates>
+          <x0>331</x0>
+          <y0>2294</y0>
+          <x1>420</x1>
+          <y1>2318</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mailing</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>2335</y0>
+          <x1>254</x1>
+          <y1>2365</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address,</Value>
+        <Coordinates>
+          <x0>267</x0>
+          <y0>2335</y0>
+          <x1>394</x1>
+          <y1>2363</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>408</x0>
+          <y0>2335</y0>
+          <x1>423</x1>
+          <y1>2358</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>different</Value>
+        <Coordinates>
+          <x0>433</x0>
+          <y0>2335</y0>
+          <x1>551</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>from</Value>
+        <Coordinates>
+          <x0>563</x0>
+          <y0>2335</y0>
+          <x1>626</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Present</Value>
+        <Coordinates>
+          <x0>641</x0>
+          <y0>2335</y0>
+          <x1>751</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>763</x0>
+          <y0>2335</y0>
+          <x1>881</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mailing</Value>
+        <Coordinates>
+          <x0>1306</x0>
+          <y0>2335</y0>
+          <x1>1407</x1>
+          <y1>2365</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address,</Value>
+        <Coordinates>
+          <x0>1420</x0>
+          <y0>2335</y0>
+          <x1>1547</x1>
+          <y1>2363</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>1562</x0>
+          <y0>2335</y0>
+          <x1>1576</x1>
+          <y1>2358</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>different</Value>
+        <Coordinates>
+          <x0>1587</x0>
+          <y0>2335</y0>
+          <x1>1705</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>from</Value>
+        <Coordinates>
+          <x0>1716</x0>
+          <y0>2335</y0>
+          <x1>1779</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Present</Value>
+        <Coordinates>
+          <x0>1794</x0>
+          <y0>2335</y0>
+          <x1>1905</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>1916</x0>
+          <y0>2335</y0>
+          <x1>2035</x1>
+          <y1>2359</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1234</Value>
+        <Coordinates>
+          <x0>155</x0>
+          <y0>2382</y0>
+          <x1>227</x1>
+          <y1>2406</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>E</Value>
+        <Coordinates>
+          <x0>241</x0>
+          <y0>2382</y0>
+          <x1>259</x1>
+          <y1>2405</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test</Value>
+        <Coordinates>
+          <x0>272</x0>
+          <y0>2382</y0>
+          <x1>435</x1>
+          <y1>2412</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Ave</Value>
+        <Coordinates>
+          <x0>448</x0>
+          <y0>2382</y0>
+          <x1>506</x1>
+          <y1>2406</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test City,FL</Value>
+        <Coordinates>
+          <x0>154</x0>
+          <y0>2426</y0>
+          <x1>310</x1>
+          <y1>2455</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>33617</Value>
+        <Coordinates>
+          <x0>322</x0>
+          <y0>2426</y0>
+          <x1>411</x1>
+          <y1>2448</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>If</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>2462</y0>
+          <x1>171</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>residing</Value>
+        <Coordinates>
+          <x0>183</x0>
+          <y0>2462</y0>
+          <x1>309</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>at</Value>
+        <Coordinates>
+          <x0>320</x0>
+          <y0>2464</y0>
+          <x1>348</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>present</Value>
+        <Coordinates>
+          <x0>359</x0>
+          <y0>2464</y0>
+          <x1>479</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>address</Value>
+        <Coordinates>
+          <x0>489</x0>
+          <y0>2462</y0>
+          <x1>615</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>626</x0>
+          <y0>2462</y0>
+          <x1>670</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>less</Value>
+        <Coordinates>
+          <x0>681</x0>
+          <y0>2462</y0>
+          <x1>743</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>than</Value>
+        <Coordinates>
+          <x0>754</x0>
+          <y0>2462</y0>
+          <x1>822</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>two</Value>
+        <Coordinates>
+          <x0>833</x0>
+          <y0>2464</y0>
+          <x1>887</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>years,</Value>
+        <Coordinates>
+          <x0>899</x0>
+          <y0>2468</y0>
+          <x1>994</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>complete</Value>
+        <Coordinates>
+          <x0>1005</x0>
+          <y0>2462</y0>
+          <x1>1150</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1161</x0>
+          <y0>2462</y0>
+          <x1>1210</x1>
+          <y1>2486</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>following:</Value>
+        <Coordinates>
+          <x0>1221</x0>
+          <y0>2462</y0>
+          <x1>1375</x1>
+          <y1>2492</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Former</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>2510</y0>
+          <x1>257</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>268</x0>
+          <y0>2510</y0>
+          <x1>387</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(street,</Value>
+        <Coordinates>
+          <x0>400</x0>
+          <y0>2510</y0>
+          <x1>499</x1>
+          <y1>2540</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>city,</Value>
+        <Coordinates>
+          <x0>512</x0>
+          <y0>2510</y0>
+          <x1>567</x1>
+          <y1>2540</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>580</x0>
+          <y0>2511</y0>
+          <x1>658</x1>
+          <y1>2537</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ZIP)</Value>
+        <Coordinates>
+          <x0>671</x0>
+          <y0>2503</y0>
+          <x1>730</x1>
+          <y1>2539</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>776</x0>
+          <y0>2503</y0>
+          <x1>827</x1>
+          <y1>2537</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Own</Value>
+        <Coordinates>
+          <x0>840</x0>
+          <y0>2503</y0>
+          <x1>904</x1>
+          <y1>2536</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>926</x0>
+          <y0>2503</y0>
+          <x1>976</x1>
+          <y1>2537</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rent</Value>
+        <Coordinates>
+          <x0>991</x0>
+          <y0>2510</y0>
+          <x1>1057</x1>
+          <y1>2533</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>1132</x0>
+          <y0>2510</y0>
+          <x1>1178</x1>
+          <y1>2533</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs</Value>
+        <Coordinates>
+          <x0>1191</x0>
+          <y0>2510</y0>
+          <x1>1246</x1>
+          <y1>2533</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Former</Value>
+        <Coordinates>
+          <x0>1301</x0>
+          <y0>2510</y0>
+          <x1>1406</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>1416</x0>
+          <y0>2510</y0>
+          <x1>1535</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(street,</Value>
+        <Coordinates>
+          <x0>1549</x0>
+          <y0>2510</y0>
+          <x1>1647</x1>
+          <y1>2540</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>city,</Value>
+        <Coordinates>
+          <x0>1660</x0>
+          <y0>2510</y0>
+          <x1>1715</x1>
+          <y1>2540</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>state,</Value>
+        <Coordinates>
+          <x0>1729</x0>
+          <y0>2510</y0>
+          <x1>1806</x1>
+          <y1>2538</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>ZIP)</Value>
+        <Coordinates>
+          <x0>1820</x0>
+          <y0>2503</y0>
+          <x1>1878</x1>
+          <y1>2539</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>[ZIOwn</Value>
+        <Coordinates>
+          <x0>1922</x0>
+          <y0>2503</y0>
+          <x1>2044</x1>
+          <y1>2537</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>D</Value>
+        <Coordinates>
+          <x0>2059</x0>
+          <y0>2504</y0>
+          <x1>2109</x1>
+          <y1>2537</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Rent</Value>
+        <Coordinates>
+          <x0>2121</x0>
+          <y0>2510</y0>
+          <x1>2186</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>No.</Value>
+        <Coordinates>
+          <x0>2291</x0>
+          <y0>2510</y0>
+          <x1>2337</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>2350</x0>
+          <y0>2510</y0>
+          <x1>2404</x1>
+          <y1>2534</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Borrower</Value>
+        <Coordinates>
+          <x0>453</x0>
+          <y0>2638</y0>
+          <x1>596</x1>
+          <y1>2663</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>IV.</Value>
+        <Coordinates>
+          <x0>1012</x0>
+          <y0>2638</y0>
+          <x1>1049</x1>
+          <y1>2662</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>EMPLOYMENT</Value>
+        <Coordinates>
+          <x0>1062</x0>
+          <y0>2638</y0>
+          <x1>1295</x1>
+          <y1>2663</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>INFORMATION</Value>
+        <Coordinates>
+          <x0>1306</x0>
+          <y0>2638</y0>
+          <x1>1536</x1>
+          <y1>2663</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Co-Borrower</Value>
+        <Coordinates>
+          <x0>1877</x0>
+          <y0>2638</y0>
+          <x1>2077</x1>
+          <y1>2663</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Name</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>2688</y0>
+          <x1>237</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>&amp;</Value>
+        <Coordinates>
+          <x0>250</x0>
+          <y0>2688</y0>
+          <x1>269</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>280</x0>
+          <y0>2688</y0>
+          <x1>399</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>412</x0>
+          <y0>2688</y0>
+          <x1>438</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Employer</Value>
+        <Coordinates>
+          <x0>451</x0>
+          <y0>2688</y0>
+          <x1>587</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Il</Value>
+        <Coordinates>
+          <x0>717</x0>
+          <y0>2685</y0>
+          <x1>765</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Self</Value>
+        <Coordinates>
+          <x0>783</x0>
+          <y0>2687</y0>
+          <x1>839</x1>
+          <y1>2711</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Employed</Value>
+        <Coordinates>
+          <x0>851</x0>
+          <y0>2688</y0>
+          <x1>994</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>1035</x0>
+          <y0>2688</y0>
+          <x1>1090</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>on</Value>
+        <Coordinates>
+          <x0>1104</x0>
+          <y0>2690</y0>
+          <x1>1137</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>1149</x0>
+          <y0>2688</y0>
+          <x1>1199</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>job</Value>
+        <Coordinates>
+          <x0>1209</x0>
+          <y0>2688</y0>
+          <x1>1253</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Name</Value>
+        <Coordinates>
+          <x0>1308</x0>
+          <y0>2688</y0>
+          <x1>1393</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>&amp;</Value>
+        <Coordinates>
+          <x0>1406</x0>
+          <y0>2688</y0>
+          <x1>1425</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Address</Value>
+        <Coordinates>
+          <x0>1436</x0>
+          <y0>2688</y0>
+          <x1>1555</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1568</x0>
+          <y0>2688</y0>
+          <x1>1594</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Employer</Value>
+        <Coordinates>
+          <x0>1607</x0>
+          <y0>2686</y0>
+          <x1>1744</x1>
+          <y1>2720</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>j</Value>
+        <Coordinates>
+          <x0>1827</x0>
+          <y0>2686</y0>
+          <x1>1877</x1>
+          <y1>2720</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Self</Value>
+        <Coordinates>
+          <x0>1887</x0>
+          <y0>2687</y0>
+          <x1>1943</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Employed</Value>
+        <Coordinates>
+          <x0>1955</x0>
+          <y0>2688</y0>
+          <x1>2098</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>2160</x0>
+          <y0>2688</y0>
+          <x1>2214</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>on</Value>
+        <Coordinates>
+          <x0>2228</x0>
+          <y0>2690</y0>
+          <x1>2261</x1>
+          <y1>2712</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>2273</x0>
+          <y0>2688</y0>
+          <x1>2323</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>job</Value>
+        <Coordinates>
+          <x0>2333</x0>
+          <y0>2688</y0>
+          <x1>2376</x1>
+          <y1>2718</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>OYBM</Value>
+        <Coordinates>
+          <x0>1115</x0>
+          <y0>2730</y0>
+          <x1>1198</x1>
+          <y1>2754</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>TestCompany</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>2783</y0>
+          <x1>333</x1>
+          <y1>2807</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>1036</x0>
+          <y0>2775</y0>
+          <x1>1084</x1>
+          <y1>2798</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>employed</Value>
+        <Coordinates>
+          <x0>1096</x0>
+          <y0>2775</y0>
+          <x1>1220</x1>
+          <y1>2801</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>1231</x0>
+          <y0>2775</y0>
+          <x1>1249</x1>
+          <y1>2795</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Yrs.</Value>
+        <Coordinates>
+          <x0>2160</x0>
+          <y0>2775</y0>
+          <x1>2208</x1>
+          <y1>2796</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>employed</Value>
+        <Coordinates>
+          <x0>2220</x0>
+          <y0>2775</y0>
+          <x1>2343</x1>
+          <y1>2801</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>1035</x0>
+          <y0>2808</y0>
+          <x1>1078</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>line</Value>
+        <Coordinates>
+          <x0>1090</x0>
+          <y0>2808</y0>
+          <x1>1133</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1143</x0>
+          <y0>2808</y0>
+          <x1>1165</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>2161</x0>
+          <y0>2808</y0>
+          <x1>2179</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>this</Value>
+        <Coordinates>
+          <x0>2190</x0>
+          <y0>2808</y0>
+          <x1>2233</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>line</Value>
+        <Coordinates>
+          <x0>2245</x0>
+          <y0>2808</y0>
+          <x1>2288</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>2298</x0>
+          <y0>2808</y0>
+          <x1>2320</x1>
+          <y1>2829</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>3467</Value>
+        <Coordinates>
+          <x0>151</x0>
+          <y0>2827</y0>
+          <x1>222</x1>
+          <y1>2851</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test</Value>
+        <Coordinates>
+          <x0>235</x0>
+          <y0>2827</y0>
+          <x1>347</x1>
+          <y1>2851</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Blvd,</Value>
+        <Coordinates>
+          <x0>360</x0>
+          <y0>2827</y0>
+          <x1>436</x1>
+          <y1>2856</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Suite</Value>
+        <Coordinates>
+          <x0>449</x0>
+          <y0>2826</y0>
+          <x1>528</x1>
+          <y1>2851</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>78</Value>
+        <Coordinates>
+          <x0>540</x0>
+          <y0>2827</y0>
+          <x1>573</x1>
+          <y1>2850</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>work/profession</Value>
+        <Coordinates>
+          <x0>1035</x0>
+          <y0>2842</y0>
+          <x1>1236</x1>
+          <y1>2868</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>work/profession</Value>
+        <Coordinates>
+          <x0>2159</x0>
+          <y0>2842</y0>
+          <x1>2360</x1>
+          <y1>2868</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test City,</Value>
+        <Coordinates>
+          <x0>150</x0>
+          <y0>2871</y0>
+          <x1>264</x1>
+          <y1>2901</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>FL</Value>
+        <Coordinates>
+          <x0>277</x0>
+          <y0>2871</y0>
+          <x1>315</x1>
+          <y1>2894</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>33634</Value>
+        <Coordinates>
+          <x0>326</x0>
+          <y0>2871</y0>
+          <x1>416</x1>
+          <y1>2895</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>2</Value>
+        <Coordinates>
+          <x0>1150</x0>
+          <y0>2879</y0>
+          <x1>1165</x1>
+          <y1>2902</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Position/Title/Type</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>2925</y0>
+          <x1>422</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>434</x0>
+          <y0>2925</y0>
+          <x1>460</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Business</Value>
+        <Coordinates>
+          <x0>473</x0>
+          <y0>2925</y0>
+          <x1>602</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Business</Value>
+        <Coordinates>
+          <x0>772</x0>
+          <y0>2925</y0>
+          <x1>902</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Phone</Value>
+        <Coordinates>
+          <x0>916</x0>
+          <y0>2925</y0>
+          <x1>1008</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(incl.</Value>
+        <Coordinates>
+          <x0>1021</x0>
+          <y0>2925</y0>
+          <x1>1086</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>area</Value>
+        <Coordinates>
+          <x0>1099</x0>
+          <y0>2931</y0>
+          <x1>1165</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>code)</Value>
+        <Coordinates>
+          <x0>1175</x0>
+          <y0>2925</y0>
+          <x1>1255</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Position/Title/Type</Value>
+        <Coordinates>
+          <x0>1308</x0>
+          <y0>2925</y0>
+          <x1>1578</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1590</x0>
+          <y0>2925</y0>
+          <x1>1616</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Business</Value>
+        <Coordinates>
+          <x0>1629</x0>
+          <y0>2925</y0>
+          <x1>1758</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Business</Value>
+        <Coordinates>
+          <x0>1910</x0>
+          <y0>2925</y0>
+          <x1>2041</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Phone</Value>
+        <Coordinates>
+          <x0>2055</x0>
+          <y0>2925</y0>
+          <x1>2147</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(incl.</Value>
+        <Coordinates>
+          <x0>2159</x0>
+          <y0>2925</y0>
+          <x1>2225</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>area</Value>
+        <Coordinates>
+          <x0>2238</x0>
+          <y0>2931</y0>
+          <x1>2303</x1>
+          <y1>2949</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>code)</Value>
+        <Coordinates>
+          <x0>2314</x0>
+          <y0>2925</y0>
+          <x1>2392</x1>
+          <y1>2955</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Test</Value>
+        <Coordinates>
+          <x0>156</x0>
+          <y0>2971</y0>
+          <x1>312</x1>
+          <y1>2997</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Tech</Value>
+        <Coordinates>
+          <x0>321</x0>
+          <y0>2971</y0>
+          <x1>396</x1>
+          <y1>2995</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>123-456-8904</Value>
+        <Coordinates>
+          <x0>771</x0>
+          <y0>2971</y0>
+          <x1>975</x1>
+          <y1>2995</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>If</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>3012</y0>
+          <x1>170</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>employed</Value>
+        <Coordinates>
+          <x0>179</x0>
+          <y0>3012</y0>
+          <x1>333</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>346</x0>
+          <y0>3012</y0>
+          <x1>372</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>current</Value>
+        <Coordinates>
+          <x0>384</x0>
+          <y0>3014</y0>
+          <x1>496</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>position</Value>
+        <Coordinates>
+          <x0>508</x0>
+          <y0>3012</y0>
+          <x1>635</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>for</Value>
+        <Coordinates>
+          <x0>647</x0>
+          <y0>3012</y0>
+          <x1>690</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>less</Value>
+        <Coordinates>
+          <x0>702</x0>
+          <y0>3012</y0>
+          <x1>764</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>than</Value>
+        <Coordinates>
+          <x0>775</x0>
+          <y0>3012</y0>
+          <x1>842</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>two</Value>
+        <Coordinates>
+          <x0>854</x0>
+          <y0>3014</y0>
+          <x1>908</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>years</Value>
+        <Coordinates>
+          <x0>920</x0>
+          <y0>3018</y0>
+          <x1>1006</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>or</Value>
+        <Coordinates>
+          <x0>1017</x0>
+          <y0>3012</y0>
+          <x1>1049</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>if</Value>
+        <Coordinates>
+          <x0>1061</x0>
+          <y0>3012</y0>
+          <x1>1079</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>currently</Value>
+        <Coordinates>
+          <x0>1089</x0>
+          <y0>3012</y0>
+          <x1>1230</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>employed</Value>
+        <Coordinates>
+          <x0>1240</x0>
+          <y0>3012</y0>
+          <x1>1395</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>in</Value>
+        <Coordinates>
+          <x0>1407</x0>
+          <y0>3012</y0>
+          <x1>1434</x1>
+          <y1>3035</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>more</Value>
+        <Coordinates>
+          <x0>1446</x0>
+          <y0>3014</y0>
+          <x1>1525</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>than</Value>
+        <Coordinates>
+          <x0>1536</x0>
+          <y0>3012</y0>
+          <x1>1604</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>one</Value>
+        <Coordinates>
+          <x0>1616</x0>
+          <y0>3018</y0>
+          <x1>1672</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>position,</Value>
+        <Coordinates>
+          <x0>1684</x0>
+          <y0>3012</y0>
+          <x1>1821</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>complete</Value>
+        <Coordinates>
+          <x0>1832</x0>
+          <y0>3012</y0>
+          <x1>1977</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>the</Value>
+        <Coordinates>
+          <x0>1988</x0>
+          <y0>3012</y0>
+          <x1>2036</x1>
+          <y1>3036</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>following:</Value>
+        <Coordinates>
+          <x0>2047</x0>
+          <y0>3012</y0>
+          <x1>2201</x1>
+          <y1>3042</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Uniform</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>3095</y0>
+          <x1>260</x1>
+          <y1>3116</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Residential</Value>
+        <Coordinates>
+          <x0>272</x0>
+          <y0>3095</y0>
+          <x1>423</x1>
+          <y1>3116</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Loan</Value>
+        <Coordinates>
+          <x0>436</x0>
+          <y0>3095</y0>
+          <x1>502</x1>
+          <y1>3116</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Application</Value>
+        <Coordinates>
+          <x0>513</x0>
+          <y0>3095</y0>
+          <x1>667</x1>
+          <y1>3121</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Freddie</Value>
+        <Coordinates>
+          <x0>152</x0>
+          <y0>3128</y0>
+          <x1>254</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mac</Value>
+        <Coordinates>
+          <x0>266</x0>
+          <y0>3128</y0>
+          <x1>319</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Form</Value>
+        <Coordinates>
+          <x0>331</x0>
+          <y0>3128</y0>
+          <x1>400</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>65</Value>
+        <Coordinates>
+          <x0>411</x0>
+          <y0>3128</y0>
+          <x1>441</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>7/05</Value>
+        <Coordinates>
+          <x0>476</x0>
+          <y0>3128</y0>
+          <x1>530</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(rev.6/09)</Value>
+        <Coordinates>
+          <x0>540</x0>
+          <y0>3128</y0>
+          <x1>665</x1>
+          <y1>3154</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Page</Value>
+        <Coordinates>
+          <x0>1200</x0>
+          <y0>3128</y0>
+          <x1>1267</x1>
+          <y1>3154</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1</Value>
+        <Coordinates>
+          <x0>1278</x0>
+          <y0>3128</y0>
+          <x1>1287</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>of</Value>
+        <Coordinates>
+          <x0>1302</x0>
+          <y0>3128</y0>
+          <x1>1327</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>5</Value>
+        <Coordinates>
+          <x0>1337</x0>
+          <y0>3128</y0>
+          <x1>1350</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Fannie</Value>
+        <Coordinates>
+          <x0>1864</x0>
+          <y0>3128</y0>
+          <x1>1955</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Mae</Value>
+        <Coordinates>
+          <x0>1966</x0>
+          <y0>3128</y0>
+          <x1>2020</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Form</Value>
+        <Coordinates>
+          <x0>2031</x0>
+          <y0>3128</y0>
+          <x1>2100</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1003</Value>
+        <Coordinates>
+          <x0>2112</x0>
+          <y0>3128</y0>
+          <x1>2174</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>7/05</Value>
+        <Coordinates>
+          <x0>2209</x0>
+          <y0>3128</y0>
+          <x1>2263</x1>
+          <y1>3149</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(rev.6/09)</Value>
+        <Coordinates>
+          <x0>2273</x0>
+          <y0>3128</y0>
+          <x1>2397</x1>
+          <y1>3154</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1003</Value>
+        <Coordinates>
+          <x0>153</x0>
+          <y0>3182</y0>
+          <x1>213</x1>
+          <y1>3204</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Page</Value>
+        <Coordinates>
+          <x0>225</x0>
+          <y0>3182</y0>
+          <x1>290</x1>
+          <y1>3208</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>1</Value>
+        <Coordinates>
+          <x0>302</x0>
+          <y0>3182</y0>
+          <x1>309</x1>
+          <y1>3208</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>(Letter)</Value>
+        <Coordinates>
+          <x0>325</x0>
+          <y0>3182</y0>
+          <x1>415</x1>
+          <y1>3208</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>-</Value>
+        <Coordinates>
+          <x0>427</x0>
+          <y0>3182</y0>
+          <x1>441</x1>
+          <y1>3202</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>04/2011</Value>
+        <Coordinates>
+          <x0>452</x0>
+          <y0>3182</y0>
+          <x1>550</x1>
+          <y1>3203</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>-</Value>
+        <Coordinates>
+          <x0>566</x0>
+          <y0>3182</y0>
+          <x1>579</x1>
+          <y1>3202</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+      <Span>
+        <Value>Encompass360®</Value>
+        <Coordinates>
+          <x0>592</x0>
+          <y0>3175</y0>
+          <x1>804</x1>
+          <y1>3208</y1>
+        </Coordinates>
+        <OcrConfidence />
+      </Span>
+    </Spans>
+    <Barcodes />
+    <HocrContent>Fairway Independent Mortgage Corporation Uniform Residential Loan Application This application is designed to be completed by the applicant(s) with the Lender's assistance. Applicants should complete this form as "Borrower" or "Co-Borrower", as applicable. Co-Borrower information must also be provided (and the appropriate box checked) when  the income or assets of a person other than the Borrower (including the Borrower's spouse) will be used as a basis for loan qualification or [] the income or assets of the Borrower's spouse or other person who has community property rights pursuant to state law will not be used as a basis for loan qualification, but his or her liabilities must be considered because the spouse or other person has community property rights pursuant to applicable law and Borrower resides in a community property state, the security property is located in a community property state, or the Borrower is relying on other property located in a community property state as a basis for repayment of the loan. If this is an application for joint credit, Borrower and Co-Borrower each agree that we intend to apply for joint credit (sign below). Borrower Co-Borrower 1. TYPE OF MORTGAGE AND TERMS OF LOAN Mortgage 0 VA  Conventional DOther (explain): Agency Case Number Lender Case Number Applied for:  FHA  USDA/Rural 123456789 Housing Service Amount Interest Rate No. of Months Amortization 01 Fixed Rate  Other (explain): $ 113,750.00 4.500 % 360 Type: j GPM ¤ ARM (type) 11. PROPERTY INFORMATION AND PURPOSE OF LOAN Subject Properly Address (street, city, state, &amp; ZIP) No. of Units 2015 W Test St, Test City, FL 33604-4624 Countv: Hillsborouah 1 Legal Description of Subject Properly (attach description if necessary) Year Built W 69.5' OF S 161.83' OF E 92.5' OF SW 1/4 OF NW 1/4 LESS S 30' FOR RD, BP 43/79 1956 Purpose of Loan:[Il Purchase j Construction j Other (explain): Property will be: E] Refinance E Construction-Permanent 11 Primary 0 Secondary 1 Investment Residence Residence Complete this line if construction or construction-permanent loan. Year Lot Acquired Original Cost Amount Existing Liens (a) Present Value of Lot $ $ I$ (b) Cost of Improvements  Total (a+b) $ I$ Complete this line if this is a refinance loan. Year Acquired Original Cost $ Amount Existing Liens  Purpose of Refinance $ Describe Improvements  made  to be made Cost $ Title will be held in what Name(s) Manner in which Title will be held Estate will be held in: 01 Fee Simple John Homeowner1 Single man  Leasehold Source of Down Payment, Settlement Charges and/or Subordinate Financing (explain) (show expiration date) UnsecuredBorrowedFunds Florida Hardest Hit Fund Borrower 111. BORROWER INFORMATION Co-Borrower Borrower's Name (include Jr. or Sr. if applicable) Co-Borrower's Name (include Jr. or Sr. if applicable) John Homeowner1 Social Security Number Home Phone (incl. area code) DOB (MM/DD/YYYY) Yrs. School Social Security Number Home Phone (incl. area code) DOB (MM/DD/YYYY) Yrs. School 111-22-3333 123-456-7890 01/01/1900 14 H CJMarried 00 Unmarried (include single, Dependents (not listed by Co-Borrower)  Married j Unmarried (include single Dependents (not listed by Borrower) divorced, widowed) no ages divorced, widowed) no ages 0 Separated OI 0 Separated Present Address (street, city, state, ZIP) 0 Own 01 Rent No. Yrs. Present Address (street, city, state, ZIP) D Own 1 Rent No. Yrs. 1234 E Test Ave 2YOM Test City, FL 33617 Mailing Address, if different from Present Address Mailing Address, if different from Present Address 1234 E Test Ave Test City,FL 33617 If residing at present address for less than two years, complete the following: Former Address (street, city, state, ZIP) j Own j Rent No. Yrs Former Address (street, city, state, ZIP) [ZIOwn D Rent No. Yrs. Borrower IV. EMPLOYMENT INFORMATION Co-Borrower Name &amp; Address of Employer Il Self Employed Yrs. on this job Name &amp; Address of Employer j Self Employed Yrs. on this job OYBM TestCompany Yrs. employed in Yrs. employed this line of in this line of 3467 Test Blvd, Suite 78 work/profession work/profession Test City, FL 33634 2 Position/Title/Type of Business Business Phone (incl. area code) Position/Title/Type of Business Business Phone (incl. area code) Test Tech 123-456-8904 If employed in current position for less than two years or if currently employed in more than one position, complete the following: Uniform Residential Loan Application Freddie Mac Form 65 7/05 (rev.6/09) Page 1 of 5 Fannie Mae Form 1003 7/05 (rev.6/09) 1003 Page 1 (Letter) - 04/2011 - Encompass360® </HocrContent>
+  </HocrPage>
+</HocrPages>

@@ -1,6 +1,10 @@
 import xml.etree.ElementTree as ET
 import json
 import string
+import urllib, urllib2, httplib
+import HTMLParser
+import bs4
+from bs4 import BeautifulSoup
 
 def is_dictionary_word(word):
 	word_without_punctuation = word.encode('utf-8').translate(None, string.punctuation+'·')
@@ -14,7 +18,10 @@ def is_dictionary_word(word):
 			return True
 	return False
 
-def is_name(word):
+def is_name(key):
+	'''Use facebook website to search the input key, if there are same results
+	 returned, the key will be take as name and return True, if not, the key
+	 is not a name and return False'''
 	word_without_punctuation = word.encode('utf-8').translate(None, string.punctuation+'·')
 	if word_without_punctuation == '':
 		return False
@@ -25,16 +32,33 @@ def is_name(word):
 			return False
 		else:
 			continue
-	name_DB = open('nameDB.txt', 'r')
-	name_list = name_DB.readlines()
-	names = [name.strip() for name in name_list if name != '']
-	for name in names:
-		if word_without_punctuation.lower() == name.lower():
-			return True
-	return False
+	# Use Facebook website to search
+	search_url_header = "https://www.facebook.com/search/people/?q=key"
+	url=search_url_header.replace('key',key.replace(' ','+'))
+	# In the disguise of Firefox, send the searching demand
+	headers={
+	'User-Agent' : "Mozilla/5.0 (Windows NT 6.3; WOW64; rv:33.0) Gecko/20100101 Firefox/33.0"
+	}
+	req = urllib2.Request(url)
+	fetchback= urllib2.urlopen(req)
+	htmlpage=fetchback.read()
+	# Use BeautifulSoup to analysis
+	soup=BeautifulSoup(htmlpage,"html5lib")
+	html_parser = HTMLParser.HTMLParser()
+	comment= html_parser.unescape(soup.code.string) # Useful information at the node <code>
+	target=BeautifulSoup(comment,"html5lib")
+	result=target.find_all("div",class_="_5d-5") # Names saved in the node <div class="_5d-5">
+	match=0
+	for name in result:
+		relname=name.string[:name.string.find('(')]
+		if relname.lower().find(key.lower()) != -1:
+			match+=1;
+	if match>0:
+		return True
+	else:
+		return False
 
 def main():
-	#xml_file = raw_input('Please enter the name of the xml file.')
 	xml_file='ocr-sample5.xml'
 	json_name=open(xml_file+'_name.json', 'w')
 	json_removed_dictionary_words=open(xml_file+'_removed_dictionary_words.json','w')
