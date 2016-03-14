@@ -106,7 +106,7 @@ else:
 command='cd /tmp;'
 command+= 'tar -zcvf result.tar.gz '+filename.replace('.xml', '_name.json')+' '+ filename.replace('.xml', '_removed_dictionary_words.json')+' ' +filename.replace('.xml', '_removed_hocr_noise_words.json')+';'
 command+='cd /var/www/cgi-bin'
-tmp = open('tmp.txt','w')
+tmp = open('/tmp/tmp.txt','w')
 tmp.write(command)
 tmp.close()
 a=os.system(command)#不要删除变量a, 这是为了抑制输出, 因为这些输出会被当做应答
