@@ -3,5 +3,5 @@ isExistApp = `pgrep httpd`
 if [[ -n  $isExistApp ]]; then
     service httpd stop
 fi
-rm -f /var/www/cgi-bin/*.py
+rm -f /var/www/cgi-bin/*.*
 rm -f /var/www/html/index.html
