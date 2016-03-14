@@ -48,7 +48,7 @@ def process(xml_file):
 	name={'names':[]}
 	removed_dictionary_words = {'removed_dictionary_words':[]}
 	removed_hocr_noise_words = {'removed_hocr_noise_words':[]}
-	tree = ET.parse(file = xml_file)
+	tree = ET.parse(xml_file)
 	root = tree.getroot()
 	for element in root.findall('Value'):
 		if is_dictionary_word(element.text):
