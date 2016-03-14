@@ -48,9 +48,9 @@ def process(xml_file):
 	name={'names':[]}
 	removed_dictionary_words = {'removed_dictionary_words':[]}
 	removed_hocr_noise_words = {'removed_hocr_noise_words':[]}
-	tree = ET.ElementTree(file = xml_file)
+	tree = ET.parse(file = xml_file)
 	root = tree.getroot()
-	for element in tree.iter(tag='Value'):
+	for element in root.findall('Value'):
 		if is_dictionary_word(element.text):
 			removed_dictionary_words['removed_dictionary_words'].append(element.text)
 		elif is_name(element.text):
