@@ -15,7 +15,7 @@ if fileitem.filename:
 	filename = os.path.basename(fileitem.filename)
 	filepath='/tmp/'+filename
 	open(filepath, 'wb').write(fileitem.file.read())
-	process(xml_file)
+	process(filepath)
 else:
 	# 出错提示
 	message = 'No file was uploaded'
@@ -32,14 +32,16 @@ else:
 # -*- coding: UTF-8 -*-
 
 # 文件下载
-print """Content-Disposition: attachment; filename=\"%s\"\r\n\n"""%(filename);
+# print """Content-Disposition: attachment; filename=\"%s\"\r\n\n"""%(filename);
 
 # 打开文件
-fo = open(filepath, "rb")
-str = fo.read();
-print str
+# fo = open(filepath, "rb")
+# str = fo.read();
+# print str
 # 关闭文件
-fo.close()
+# fo.close()
+
+########################################################################
 downloadlist=[
 	xml_file+'_removed_dictionary_words.json',
 	xml_file+'_removed_hocr_noise_words.json'
@@ -61,6 +63,6 @@ for name in downloadlist:
     if os.path.isdir('r:\\'):
         metaf = [str(len(data)), urllib.unquote(name), os.path.abspath(urllib.unquote(name))]
         open('r:\\ot.txt', 'wb').write('\r\n'.join(metaf))
-else:
-    print "Content-Type: text/html\n"
-    print "<html><head><title>Error</title></head><body><pre>Not has file name</pre></body></html>"
+	else:
+    	print "Content-Type: text/html\n"
+    	print "<html><head><title>Error</title></head><body><pre>Not has file name</pre></body></html>"
