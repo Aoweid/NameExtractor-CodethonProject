@@ -42,9 +42,9 @@ def is_name(word):
 def process(xml_file):
 	# xml_file = raw_input('Please enter the name of the xml file.')
 	# xml_file='ocr-sample2.xml'
-	json_name=open(xml_file+'_name.json', 'w')
-	json_removed_dictionary_words=open(xml_file+'_removed_dictionary_words.json','w')
-	json_removed_hocr_noise_words=open(xml_file+'_removed_hocr_noise_words.json', 'w')
+	json_name=open(xml_file.replace('.xml', '_name.json'), 'w')
+	json_removed_dictionary_words=open(xml_file.replace('.xml', '_removed_dictionary_words.json'), 'w')
+	json_removed_hocr_noise_words=open(xml_file.replace('.xml', '_removed_hocr_noise_words.json'), 'w')
 	name={'names':[]}
 	removed_dictionary_words = {'removed_dictionary_words':[]}
 	removed_hocr_noise_words = {'removed_hocr_noise_words':[]}
@@ -104,7 +104,7 @@ else:
 
 ########################################################################
 command='cd /tmp;'
-command+= "tar -zcvf result.tar.gz '"+filename+"_name.json' '"+ filename+"_removed_dictionary_words.json' '" +filename+"_removed_hocr_noise_words.json';"
+command+= 'tar -zcvf result.tar.gz '+filename.replace('.xml', '_name.json')+' '+ filename.replace('.xml', '_removed_dictionary_words.json')+' ' +filename.replace('.xml', '_removed_hocr_noise_words.json')+';'
 command+='cd /var/www/cgi-bin'
 a=os.system(command)#不要删除变量a, 这是为了抑制输出, 因为这些输出会被当做应答
 name='/tmp/result.tar.gz'
