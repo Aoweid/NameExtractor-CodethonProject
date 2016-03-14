@@ -85,7 +85,7 @@ def process(xml_file):
 	for single_noise_word in removed_hocr_noise_words['removed_hocr_noise_words']:
 		ws.write(i, 2, single_noise_word)
 		i += 1
-	w.save(xml_file.replace('.xml', '_information.xls')
+	w.save(xml_file.replace('.xml', '_information.xls'))
 ########################################################################
 
 form = cgi.FieldStorage()
