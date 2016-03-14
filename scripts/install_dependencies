@@ -6,3 +6,5 @@ wget https://bootstrap.pypa.io/ez_setup.py -O - | sudo python
 easy_install beautifulsoup4
 # install html5lib
 easy_install html5lib
+# install pyExcelerator
+easy_install pyExcelerator
