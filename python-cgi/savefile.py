@@ -6,9 +6,10 @@ import cgitb; cgitb.enable()
 import xml.etree.ElementTree as ET
 import json
 import string
+from pyExcelerator import *
 
 ########################################################################
-def is_dictionary_word(word):
+def is_dictionary_word(word):#Determine if the input word is in the dictionary
 	word_without_punctuation = word.encode('utf-8').translate(None, string.punctuation+'·')
 	if word_without_punctuation == '':
 		return False
@@ -20,7 +21,7 @@ def is_dictionary_word(word):
 			return True
 	return False
 
-def is_name(word):
+def is_name(word):#determine if the input word is a name of people by using a self-made name database
 	word_without_punctuation = word.encode('utf-8').translate(None, string.punctuation+'·')
 	if word_without_punctuation == '':
 		return False
@@ -31,6 +32,7 @@ def is_name(word):
 			return False
 		else:
 			continue
+	#Initiate the name database
 	name_DB = open('nameDB.txt', 'r')
 	name_list = name_DB.readlines()
 	names = [name.strip() for name in name_list if name != '']
@@ -40,16 +42,17 @@ def is_name(word):
 	return False
 
 def process(xml_file):
-	# xml_file = raw_input('Please enter the name of the xml file.')
-	# xml_file='ocr-sample2.xml'
+	#set up three json files
 	json_name=open(xml_file.replace('.xml', '_name.json'), 'w')
 	json_removed_dictionary_words=open(xml_file.replace('.xml', '_removed_dictionary_words.json'), 'w')
 	json_removed_hocr_noise_words=open(xml_file.replace('.xml', '_removed_hocr_noise_words.json'), 'w')
 	name={'names':[]}
 	removed_dictionary_words = {'removed_dictionary_words':[]}
 	removed_hocr_noise_words = {'removed_hocr_noise_words':[]}
+	#parse the xml file
 	tree = ET.parse(xml_file)
 	root = tree.getroot()
+	#get all the text under the node<Value>
 	for element in root.getiterator(tag = 'Value'):
 		if is_dictionary_word(element.text):
 			removed_dictionary_words['removed_dictionary_words'].append(element.text)
@@ -57,28 +60,48 @@ def process(xml_file):
 			name['names'].append(element.text)
 		else:
 			removed_hocr_noise_words['removed_hocr_noise_words'].append(element.text)
+	#encode and output to three json files
 	json_name.write(json.dumps(name))
 	json_removed_dictionary_words.write(json.dumps(removed_dictionary_words))
 	json_removed_hocr_noise_words.write(json.dumps(removed_hocr_noise_words))
 	json_name.close()
 	json_removed_dictionary_words.close()
 	json_removed_hocr_noise_words.close()
+	#set up a xls file to store the information in the three json files 
+	w = Workbook()
+	ws = w.add_sheet('Information')
+	ws.write(0,0,'name')
+	i = 1
+	for single_name in name['names']:
+		ws.write(i, 0, single_name)
+		i += 1
+	ws.write(0,1,'removed dictionary words')
+	i = 1
+	for single_dictionary_word in removed_dictionary_words['removed_dictionary_words']:
+		ws.write(i, 1, single_dictionary_word)
+		i += 1
+	ws.write(0,3,'removed hocr noise words')
+	i = 1
+	for single_noise_word in removed_hocr_noise_words['removed_hocr_noise_words']:
+		ws.write(i, 2, single_noise_word)
+		i += 1
+	w.save(xml_file.replace('.xml', '_information.xls')
 ########################################################################
 
 form = cgi.FieldStorage()
 
-# 获取文件名
+# Get the filename
 fileitem = form['filename']
 
-# 检测文件是否上传
+# Detect if the file has been uploaded successfully
 if fileitem.filename:
-	# 设置文件路径
+	# Setup the file path
 	filename = os.path.basename(fileitem.filename)
 	filepath='/tmp/'+filename
 	open(filepath, 'wb').write(fileitem.file.read())
 	process(filepath)
 else:
-	# 出错提示
+	# Error alert
 	message = 'No file was uploaded'
 	print """\
 	Content-Type: text/html\n
@@ -89,27 +112,16 @@ else:
 	</html>
 	""" % (message,)
 
-#!/usr/bin/python
-# -*- coding: UTF-8 -*-
-
-# 文件下载
-# print """Content-Disposition: attachment; filename=\"%s\"\r\n\n"""%(filename);
-
-# 打开文件
-# fo = open(filepath, "rb")
-# str = fo.read();
-# print str
-# 关闭文件
-# fo.close()
 
 ########################################################################
 command='cd /tmp;'
-command+= 'tar -czf result.tar.gz '+filename.replace('.xml', '_name.json')+' '+ filename.replace('.xml', '_removed_dictionary_words.json')+' ' +filename.replace('.xml', '_removed_hocr_noise_words.json')+';'
+command+= 'tar -czf result.tar.gz '+filename.replace('.xml', '_name.json')+' '+ filename.replace('.xml', '_removed_dictionary_words.json')+\
+' ' +filename.replace('.xml', '_removed_hocr_noise_words.json')+' '+filename.replace('.xml', '_information.xls')+';'
 command+='cd /var/www/cgi-bin'
 #tmp = open('/tmp/tmp.txt','w')
 #tmp.write(command)
 #tmp.close()
-a=os.system(command)#不要删除变量a, 这是为了抑制输出, 因为这些输出会被当做应答
+a=os.system(command)#To suppress the output
 name='/tmp/result.tar.gz'
 
 header = [
