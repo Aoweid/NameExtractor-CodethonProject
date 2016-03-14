@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /index.html ocr/  python-cgi/ scripts/  upload/
     destination: /var/www/html/
 hooks:
   BeforeInstall:
