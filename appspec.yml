@@ -3,18 +3,20 @@ os: linux
 files:
   - source: /index.html
     destination: /var/www/html/
-  - source: /ocr/
-    destination: /var/www/html/
   - source: /python-cgi/
-    destination: /var/www/html/
-  - source: /scripts/
-    destination: /var/www/html/
-  - source: /upload/
-    destination: /var/www/html/
+    destination: /var/www/cgi-bin/
+  - source: /httpd.conf
+    destination: /var/www/cgi-bin
+permissions:
+   - object: /var/www/cgi-bin/
+     pattern: "**"
+     mode: 777
+     type:
+       - file
 hooks:
   BeforeInstall:
     - location: scripts/install_dependencies
-      timeout: 300
+      timeout: 500
       runas: root
     - location: scripts/start_server
       timeout: 300

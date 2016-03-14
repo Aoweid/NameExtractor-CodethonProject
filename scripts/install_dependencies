@@ -1,3 +1,8 @@
 #!/bin/bash
 yum install -y httpd
-
+# install setuptools
+wget https://bootstrap.pypa.io/ez_setup.py -O - | sudo python
+# install beautifulsoup
+easy_install beautifulsoup4
+# install html5lib
+easy_install html5lib
