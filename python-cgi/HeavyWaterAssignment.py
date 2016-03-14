@@ -80,7 +80,7 @@ def process(xml_file):
 	for single_dictionary_word in removed_dictionary_words['removed_dictionary_words']:
 		ws.write(i, 1, single_dictionary_word)
 		i += 1
-	ws.write(0,3,'removed hocr noise words')
+	ws.write(0,2,'removed hocr noise words')
 	i = 1
 	for single_noise_word in removed_hocr_noise_words['removed_hocr_noise_words']:
 		ws.write(i, 2, single_noise_word)
